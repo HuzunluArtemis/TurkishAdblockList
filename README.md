@@ -9,9 +9,7 @@ AdAway ile kullanınız. -çoğunlukla- Android için tasarlanmıştır. Daha ö
 
 Ayrıntılı bilgi: [bilgiler 1](https://eksisozluk.com/nano-defender--5646917?a=nice) - [bilgiler 2](https://eksisozluk.com/nano-adblocker--5649314?a=nice)
 
-## [Kurulum Videosu](https://www.youtube.com/watch?v=y_ZpbJGR_vw)
-
-## Windows için Önerilen
+## Windows/Linux/Mac için Önerilen
 
 - İnternet tarayıcınızda [ublock origin](https://github.com/gorhill/uBlock) kullanarak etkin bir şekilde element filtrelemesi yapabilirsiniz. Bunun için öncelikle tarayıcınız için olanını edinin: [Chrome için](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=tr) - 
 [Firefox için](https://addons.mozilla.org/tr/firefox/addon/ublock-origin/) - [Edge için](https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak) - [Opera için](https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak)
@@ -51,6 +49,8 @@ Aşağıdaki adrese girerek listenin tamamını kopyalayın:
 - Bilgisayarınızda C:\Windows\System32\drivers\etc konumundaki hosts dosyasını bulun.
 - hosts dosyasını notepad++ ile açarak listeyi buraya yapıştırın ve kaydedip çıkın.
 - Bilgisayarınızı yeniden başlatın.
+- Bu yöntem ayrıca hiçbir cihaz için önerilmez.
+- En iyisi tarayıcınıza kurmaktır. ublock origin kullanarak.
 
 ## Android için Seçenekler
 

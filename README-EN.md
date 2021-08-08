@@ -9,7 +9,7 @@ Use with AdAway. Designed for -mostly- Android. I have recommended Nano Adblocke
 
 Detailed information (Turkish): [bilgiler 1](https://eksisozluk.com/nano-defender--5646917?a=nice) - [bilgiler 2](https://eksisozluk.com/nano-adblocker--5649314?a=nice)
 
-## What is Recommended for Windows?
+## What is Recommended for Windows/Linux/Mac?
 
 - You can effectively filter element by using [uBlock Origin](https://github.com/gorhill/uBlock) in your browser. To do so, first obtain the one for your browser: [for Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=tr) - 
 [for Firefox](https://addons.mozilla.org/tr/firefox/addon/ublock-origin/) - [for Edge](https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak) - [for Opera](https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak)
@@ -48,6 +48,8 @@ Copy the entire list by entering the following address:
 - Locate the hosts file on your computer at C:\Windows\System32\drivers\etc.
 - Open the hosts file with notepad ++, paste the list here and save and exit.
 - Restart your computer.
+- This method is also not recommended for any device.
+- The best is to install it in your browser with ublock origin.
 
 ## Options for Android
 
