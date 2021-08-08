@@ -1,0 +1,26 @@
+# Title: huzunluartemis turkish bad iplist
+# Format: Bad IpList
+# Expires: 1 days
+# Homepage: https://github.com/huzunluartemis/TurkishAdblockList
+# Issues: https://github.com/huzunluartemis/TurkishAdblockList/issues
+# Source: https://raw.githubusercontent.com/huzunluartemis/TurkishAdblockList/main/src/BadIpList.txt
+# License: https://raw.githubusercontent.com/huzunluartemis/TurkishAdblockList/main/LICENSE
+
+# Copyright 2021 huzunluartemis
+
+# huzunluartemis/TurkishAdblockList başla
+109.73.75.29
+109.73.75.3
+154.213.244.147
+165.22.200.68
+176.55.252.4
+18.222.172.239
+217.195.197.45
+23.107.57.2
+23.107.57.3
+35.194.16.41
+35.224.227.218
+45.195.71.214
+88.255.216.16
+95.169.17.121
+# huzunluartemis/TurkishAdblockList bitir
