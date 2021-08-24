@@ -97,6 +97,7 @@
 127.0.0.1 6galafx.com
 127.0.0.1 6uwehz1xp4.com
 127.0.0.1 7.uzelok4u.ru
+127.0.0.1 720pfilmizletir.com
 127.0.0.1 7galafx.com
 127.0.0.1 7wuvias.website
 127.0.0.1 815jpfypwc.execute-api.us-east-1.amazonaws.com
@@ -1684,6 +1685,8 @@
 127.0.0.1 extremefreegames.com
 127.0.0.1 extremetracking.com
 127.0.0.1 extremetracking.net
+127.0.0.1 exxenim.com
+127.0.0.1 exxenzone.com
 127.0.0.1 eyeviewads.com
 127.0.0.1 eyzpiel.cf
 127.0.0.1 eyzpiel.ga
@@ -2191,6 +2194,7 @@
 127.0.0.1 ivreprsident.tk
 127.0.0.1 iyijadeitect.files.wordpress.com
 127.0.0.1 iyijadeitect.wordpress.com
+127.0.0.1 izle9.com
 127.0.0.1 izmiran.nw.ru
 127.0.0.1 izmiraol.mycollegetoolbar.com
 127.0.0.1 izmirelbisecilerodasi.org
@@ -2427,6 +2431,7 @@
 127.0.0.1 landing.restbet321.com
 127.0.0.1 landings.ncmae.com
 127.0.0.1 landings.ncmfck.com
+127.0.0.1 landings.setrtopfox.com
 127.0.0.1 landmange.com
 127.0.0.1 lassanalenahan90.files.wordpress.com
 127.0.0.1 lassanalenahan90.wordpress.com
@@ -2837,6 +2842,7 @@
 127.0.0.1 my.mobfox.com
 127.0.0.1 my.rtmark.net
 127.0.0.1 mybetterdl.com
+127.0.0.1 mycbet.com
 127.0.0.1 mycdn2.co
 127.0.0.1 myfood.ltd
 127.0.0.1 myfotolife.xyz
@@ -3219,6 +3225,7 @@
 127.0.0.1 plutonium.icu
 127.0.0.1 plvlp.lovechats.org
 127.0.0.1 pmelon.com
+127.0.0.1 pmkran.dk
 127.0.0.1 pomada.org
 127.0.0.1 ponylo.freesite.host
 127.0.0.1 popads.net
@@ -3626,6 +3633,7 @@
 127.0.0.1 serving-sys.com
 127.0.0.1 serving.pixsense.net
 127.0.0.1 servismerkezi.com.tr
+127.0.0.1 setrtopfox.com
 127.0.0.1 setting.adzcore.com
 127.0.0.1 setting.rayjump.com
 127.0.0.1 settings.crashlytics.col
@@ -3898,6 +3906,7 @@
 127.0.0.1 theadx.com
 127.0.0.1 thebestgame2020.com
 127.0.0.1 thedragonbahis.com
+127.0.0.1 theforex24.com
 127.0.0.1 themediamove.com
 127.0.0.1 thintiturring.tk
 127.0.0.1 thogethoffic.co
@@ -3989,6 +3998,7 @@
 127.0.0.1 triggit.com
 127.0.0.1 troyforex3.com
 127.0.0.1 troyforex4.com
+127.0.0.1 trpdfs.info
 127.0.0.1 truefalserdr.agency
 127.0.0.1 truefalserdr1.agency
 127.0.0.1 truefalserdr14.agency
@@ -4366,6 +4376,7 @@
 127.0.0.1 www.6galafx.com
 127.0.0.1 www.6uwehz1xp4.com
 127.0.0.1 www.7.uzelok4u.ru
+127.0.0.1 www.720pfilmizletir.com
 127.0.0.1 www.7galafx.com
 127.0.0.1 www.7wuvias.website
 127.0.0.1 www.815jpfypwc.execute-api.us-east-1.amazonaws.com
@@ -5951,6 +5962,8 @@
 127.0.0.1 www.extremefreegames.com
 127.0.0.1 www.extremetracking.com
 127.0.0.1 www.extremetracking.net
+127.0.0.1 www.exxenim.com
+127.0.0.1 www.exxenzone.com
 127.0.0.1 www.eyeviewads.com
 127.0.0.1 www.eyzpiel.cf
 127.0.0.1 www.eyzpiel.ga
@@ -6456,6 +6469,7 @@
 127.0.0.1 www.ivreprsident.tk
 127.0.0.1 www.iyijadeitect.files.wordpress.com
 127.0.0.1 www.iyijadeitect.wordpress.com
+127.0.0.1 www.izle9.com
 127.0.0.1 www.izmiran.nw.ru
 127.0.0.1 www.izmiraol.mycollegetoolbar.com
 127.0.0.1 www.izmirelbisecilerodasi.org
@@ -6692,6 +6706,7 @@
 127.0.0.1 www.landing.restbet321.com
 127.0.0.1 www.landings.ncmae.com
 127.0.0.1 www.landings.ncmfck.com
+127.0.0.1 www.landings.setrtopfox.com
 127.0.0.1 www.landmange.com
 127.0.0.1 www.lassanalenahan90.files.wordpress.com
 127.0.0.1 www.lassanalenahan90.wordpress.com
@@ -7102,6 +7117,7 @@
 127.0.0.1 www.my.mobfox.com
 127.0.0.1 www.my.rtmark.net
 127.0.0.1 www.mybetterdl.com
+127.0.0.1 www.mycbet.com
 127.0.0.1 www.mycdn2.co
 127.0.0.1 www.myfood.ltd
 127.0.0.1 www.myfotolife.xyz
@@ -7481,6 +7497,7 @@
 127.0.0.1 www.plutonium.icu
 127.0.0.1 www.plvlp.lovechats.org
 127.0.0.1 www.pmelon.com
+127.0.0.1 www.pmkran.dk
 127.0.0.1 www.pomada.org
 127.0.0.1 www.ponylo.freesite.host
 127.0.0.1 www.popads.net
@@ -8158,6 +8175,7 @@
 127.0.0.1 www.theadx.com
 127.0.0.1 www.thebestgame2020.com
 127.0.0.1 www.thedragonbahis.com
+127.0.0.1 www.theforex24.com
 127.0.0.1 www.themediamove.com
 127.0.0.1 www.thintiturring.tk
 127.0.0.1 www.thogethoffic.co
@@ -8247,6 +8265,7 @@
 127.0.0.1 www.triggit.com
 127.0.0.1 www.troyforex3.com
 127.0.0.1 www.troyforex4.com
+127.0.0.1 www.trpdfs.info
 127.0.0.1 www.truefalserdr.agency
 127.0.0.1 www.truefalserdr1.agency
 127.0.0.1 www.truefalserdr14.agency
@@ -8539,6 +8558,7 @@
 127.0.0.1 www.www3.haberturk.com
 127.0.0.1 www.wziviridimechanic.files.wordpress.com
 127.0.0.1 www.wziviridimechanic.wordpress.com
+127.0.0.1 www.x-1xbet-54223.world
 127.0.0.1 www.x-bet.mobi
 127.0.0.1 www.x-sport.mobi
 127.0.0.1 www.x-sports.mobi
@@ -8875,6 +8895,7 @@
 127.0.0.1 www3.haberturk.com
 127.0.0.1 wziviridimechanic.files.wordpress.com
 127.0.0.1 wziviridimechanic.wordpress.com
+127.0.0.1 x-1xbet-54223.world
 127.0.0.1 x-bet.mobi
 127.0.0.1 x-sport.mobi
 127.0.0.1 x-sports.mobi
