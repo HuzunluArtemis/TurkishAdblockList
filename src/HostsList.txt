@@ -98,6 +98,7 @@
 127.0.0.1 6uwehz1xp4.com
 127.0.0.1 7.uzelok4u.ru
 127.0.0.1 720pfilmizletir.com
+127.0.0.1 7daksohbet.com
 127.0.0.1 7galafx.com
 127.0.0.1 7wuvias.website
 127.0.0.1 815jpfypwc.execute-api.us-east-1.amazonaws.com
@@ -2868,6 +2869,7 @@
 127.0.0.1 nbsmsblzow.com
 127.0.0.1 ncmae.com
 127.0.0.1 ncmfck.com
+127.0.0.1 ndejhe73jslaw093.com
 127.0.0.1 nebulaturkcom.myforumtoolbar.com
 127.0.0.1 neseker.com.tr
 127.0.0.1 net.rayjump.com
@@ -4377,6 +4379,7 @@
 127.0.0.1 www.6uwehz1xp4.com
 127.0.0.1 www.7.uzelok4u.ru
 127.0.0.1 www.720pfilmizletir.com
+127.0.0.1 www.7daksohbet.com
 127.0.0.1 www.7galafx.com
 127.0.0.1 www.7wuvias.website
 127.0.0.1 www.815jpfypwc.execute-api.us-east-1.amazonaws.com
@@ -7142,6 +7145,7 @@
 127.0.0.1 www.nbsmsblzow.com
 127.0.0.1 www.ncmae.com
 127.0.0.1 www.ncmfck.com
+127.0.0.1 www.ndejhe73jslaw093.com
 127.0.0.1 www.nebulaturkcom.myforumtoolbar.com
 127.0.0.1 www.neseker.com.tr
 127.0.0.1 www.net.rayjump.com
