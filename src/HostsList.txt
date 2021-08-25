@@ -3426,7 +3426,6 @@
 127.0.0.1 report.appmetrica.yandex.net
 127.0.0.1 reports.crashlytics.com
 127.0.0.1 req.startappservice.com
-127.0.0.1 reqcdn.com
 127.0.0.1 rereegny.net
 127.0.0.1 res.cloudinary.com
 127.0.0.1 res1.applovin.com
@@ -7700,7 +7699,6 @@
 127.0.0.1 www.report.appmetrica.yandex.net
 127.0.0.1 www.reports.crashlytics.com
 127.0.0.1 www.req.startappservice.com
-127.0.0.1 www.reqcdn.com
 127.0.0.1 www.rereegny.net
 127.0.0.1 www.res.cloudinary.com
 127.0.0.1 www.res1.applovin.com
