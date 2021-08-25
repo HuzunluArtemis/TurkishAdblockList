@@ -1277,6 +1277,10 @@
 ##[href^="http://mindfullnora.hatenablog.com/"]
 ##[href^="http://mobil-izle.xyz"]
 ##[href^="http://mobil-izle.xyz/"]
+##[href^="http://mobilhdizle.com"]
+##[href^="http://mobilhdizle.com/"]
+##[href^="http://mobilhdizle.com/lp"]
+##[href^="http://mobilhdizle.com/lp/"]
 ##[href^="http://nabcity.com"]
 ##[href^="http://nrafrd.nerobetaff.com/C.ashx"]
 ##[href^="http://omareeper.com"]
@@ -1303,6 +1307,10 @@
 ##[href^="http://plugrush.com"]
 ##[href^="http://plugrush.com/"]
 ##[href^="http://pnbtour.com"]
+##[href^="http://pns111.mobilhdizle.com"]
+##[href^="http://pns111.mobilhdizle.com/"]
+##[href^="http://pns111.mobilhdizle.com/lp"]
+##[href^="http://pns111.mobilhdizle.com/lp/"]
 ##[href^="http://pre.mobby.co/red?r2"]
 ##[href^="http://press-here-to-continue.com"]
 ##[href^="http://press-here-to-continue.com/"]
@@ -1909,6 +1917,10 @@
 ##[href^="https://mindfullnora.hatenablog.com/"]
 ##[href^="https://mobil-izle.xyz"]
 ##[href^="https://mobil-izle.xyz/"]
+##[href^="https://mobilhdizle.com"]
+##[href^="https://mobilhdizle.com/"]
+##[href^="https://mobilhdizle.com/lp"]
+##[href^="https://mobilhdizle.com/lp/"]
 ##[href^="https://nabcity.com"]
 ##[href^="https://nabcity.com/"]
 ##[href^="https://omareeper.com"]
@@ -1942,6 +1954,10 @@
 ##[href^="https://plugrush.com/"]
 ##[href^="https://pnbtour.com"]
 ##[href^="https://pnbtour.com/"]
+##[href^="https://pns111.mobilhdizle.com"]
+##[href^="https://pns111.mobilhdizle.com/"]
+##[href^="https://pns111.mobilhdizle.com/lp"]
+##[href^="https://pns111.mobilhdizle.com/lp/"]
 ##[href^="https://pns61.mobilhdizle.com/lp/"]
 ##[href^="https://pre.mobby.co/red?r2"]
 ##[href^="https://press-here-to-continue.com"]
@@ -3728,6 +3744,8 @@ cdn.ampproject.org##.cntr > .ivr-img
 cdn.ampproject.org##.Fclick
 cdn.ampproject.org##.i-amphtml-layout.i-amphtml-element.i-amphtml-layout-size-defined.i-amphtml-layout-fixed-height
 cdn.ampproject.org##.i-amphtml-layout.i-amphtml-element.i-amphtml-layout-size-defined.i-amphtml-layout-fixed-height > .i-amphtml-replaced-content.i-amphtml-fill-content
+cdn.ampproject.org##.i-amphtml-layout.i-amphtml-element.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.fixedframe
+cdn.ampproject.org##.i-amphtml-layout.i-amphtml-element.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.fixedframe > .i-amphtml-layout.i-amphtml-element.i-amphtml-layout-size-defined.i-amphtml-layout-fill > .i-amphtml-replaced-content.i-amphtml-fill-content
 cdn.ampproject.org##.reklamorta
 cdn.ampproject.org##.sgl.sp > .ivr-img
 cdn.ampproject.org##center
@@ -4132,6 +4150,8 @@ pns111.mobilhdizle.com/$third-party
 pns111.mobilhdizle.com/lp/$popup
 pns111.mobilhdizle.com/lp/$third-party
 poke-maheir-com.cdn.ampproject.org###uyari
+poke-maheir-com.cdn.ampproject.org##.i-amphtml-layout.i-amphtml-built.i-amphtml-element.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.e_1907701193
+poke-maheir-com.cdn.ampproject.org##.i-amphtml-layout.i-amphtml-built.i-amphtml-element.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.e_61672974
 polisaskeradaylari.com##div.ads:nth-of-type(3) > div > .adsbygoogle
 porn-desip-org.cdn.ampproject.org##.marquee
 porn-desip-org.cdn.ampproject.org##.marquee-outer
@@ -4206,6 +4226,7 @@ thepiratecity.net##blockquote
 tiko-hdabla-net.cdn.ampproject.org###uyari
 tiko-hdabla-net.cdn.ampproject.org##.hdabla-div
 tiko-hdabla-net.cdn.ampproject.org##.uyari
+tiko-hdabla-net.cdn.ampproject.org,poke-maheir-com.cdn.ampproject.org##.i-amphtml-layout.i-amphtml-built.i-amphtml-element.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.fixedframe
 tk##.download-file.download
 tokyo-evooli-com.cdn.ampproject.org###fnzClick
 torrentdownload.ch##table.table2:nth-of-type(1) > tbody > tr:nth-of-type(4) > td
