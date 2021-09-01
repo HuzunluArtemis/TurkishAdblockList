@@ -9,6 +9,8 @@
 ! Copyright 2021 huzunluartemis
 
 ! huzunluartemis/TurkishAdblockList başla
+# cdn.ampproject.org##.i-amphtml-layout.i-amphtml-element.i-amphtml-layout-size-defined.i-amphtml-layout-fixed-height
+# cdn.ampproject.org##.i-amphtml-layout.i-amphtml-element.i-amphtml-layout-size-defined.i-amphtml-layout-fixed-height > .i-amphtml-replaced-content.i-amphtml-fill-content
 ###adContentWrapper
 ###adv-link
 ###alt_kayan_reklam
@@ -1311,6 +1313,14 @@
 ##[href^="http://mobilhdizle.com/lp"]
 ##[href^="http://mobilhdizle.com/lp/"]
 ##[href^="http://nabcity.com"]
+##[href^="http://ndejhe73jslaw093.com/PVZ/PVZ.php"]
+##[href^="http://ndejhe73jslaw093.com/PVZ/PVZ.php?"]
+##[href^="http://ndejhe73jslaw093.com/PVZ/PVZ.php?c"]
+##[href^="http://ndejhe73jslaw093.com/PVZ/PVZ.php?c="]
+##[href^="http://ndejhe73jslaw093.com/PVZ/PVZ.php?c=1862117"]
+##[href^="http://ndejhe73jslaw093.com/PVZ/PVZ.php?c=1862117&"]
+##[href^="http://ndejhe73jslaw093.com/PVZ/PVZ.php?c=1862117&c1"]
+##[href^="http://ndejhe73jslaw093.com/PVZ/PVZ.php?c=1862117&c1=VAR"]
 ##[href^="http://nrafrd.nerobetaff.com/C.ashx"]
 ##[href^="http://omareeper.com"]
 ##[href^="http://omareeper.com/afu.phP"]
@@ -1379,8 +1389,18 @@
 ##[href^="http://sitfathatronve.pro"]
 ##[href^="http://softob.com"]
 ##[href^="http://sohbetara69.xyz"]
+##[href^="http://sohbetbiz1.club"]
+##[href^="http://sohbetbiz1.club/"]
+##[href^="http://sohbetbiz1.club/gbxd"]
+##[href^="http://sohbetbiz1.club/gbxd/"]
+##[href^="http://sohbetbiz1.club/gbxd/dc47c"]
+##[href^="http://sohbetbiz1.club/gbxd/dc47c/"]
 ##[href^="http://sohbetcepte.com/whatsapps"]
 ##[href^="http://sohbetcepte.com/whatsapps/"]
+##[href^="http://sohbetwa.club"]
+##[href^="http://sohbetwa.club/"]
+##[href^="http://sohbetwa.club/dc47c"]
+##[href^="http://sohbetwa.club/dc47c/"]
 ##[href^="http://sportingcupmp.com"]
 ##[href^="http://sportingcupmp.com/"]
 ##[href^="http://srr.thedragonbahis.com"]
@@ -1972,6 +1992,14 @@
 ##[href^="https://mobilhdizle.com/lp/"]
 ##[href^="https://nabcity.com"]
 ##[href^="https://nabcity.com/"]
+##[href^="https://ndejhe73jslaw093.com/PVZ/PVZ.php"]
+##[href^="https://ndejhe73jslaw093.com/PVZ/PVZ.php?"]
+##[href^="https://ndejhe73jslaw093.com/PVZ/PVZ.php?c"]
+##[href^="https://ndejhe73jslaw093.com/PVZ/PVZ.php?c="]
+##[href^="https://ndejhe73jslaw093.com/PVZ/PVZ.php?c=1862117"]
+##[href^="https://ndejhe73jslaw093.com/PVZ/PVZ.php?c=1862117&"]
+##[href^="https://ndejhe73jslaw093.com/PVZ/PVZ.php?c=1862117&c1"]
+##[href^="https://ndejhe73jslaw093.com/PVZ/PVZ.php?c=1862117&c1=VAR"]
 ##[href^="https://omareeper.com"]
 ##[href^="https://omareeper.com/"]
 ##[href^="https://omareeper.com/afu.phP"]
@@ -2058,8 +2086,18 @@
 ##[href^="https://softob.com/"]
 ##[href^="https://sohbetara69.xyz"]
 ##[href^="https://sohbetara69.xyz/"]
+##[href^="https://sohbetbiz1.club"]
+##[href^="https://sohbetbiz1.club/"]
+##[href^="https://sohbetbiz1.club/gbxd"]
+##[href^="https://sohbetbiz1.club/gbxd/"]
+##[href^="https://sohbetbiz1.club/gbxd/dc47c"]
+##[href^="https://sohbetbiz1.club/gbxd/dc47c/"]
 ##[href^="https://sohbetcepte.com/whatsapps"]
 ##[href^="https://sohbetcepte.com/whatsapps/"]
+##[href^="https://sohbetwa.club"]
+##[href^="https://sohbetwa.club/"]
+##[href^="https://sohbetwa.club/dc47c"]
+##[href^="https://sohbetwa.club/dc47c/"]
 ##[href^="https://sportingcupmp.com"]
 ##[href^="https://sportingcupmp.com/"]
 ##[href^="https://srr.thedragonbahis.com"]
@@ -3684,6 +3722,7 @@ alfabetik.info##body > div:nth-of-type(4)
 alfabetik.info##body > div:nth-of-type(5)
 alqq-alanam-com.cdn.ampproject.org##.amp-x-div
 amp3-balbal-biz.cdn.ampproject.org###iAlert
+ampproject.org###ageAlert
 ampproject.org###fnzClick
 ampproject.org###header-reklam
 ampproject.org###iOssi
@@ -3796,12 +3835,15 @@ cdn.ampproject.org###ivr-bar
 cdn.ampproject.org###jg-reklam
 cdn.ampproject.org###pop-alert
 cdn.ampproject.org###popups
+cdn.ampproject.org###toprek
+cdn.ampproject.org###toprek > span
+cdn.ampproject.org###vrsAlert
+cdn.ampproject.org##.amp-x-div
 cdn.ampproject.org##.cntr > .ivr-img
 cdn.ampproject.org##.Fclick
-# cdn.ampproject.org##.i-amphtml-layout.i-amphtml-element.i-amphtml-layout-size-defined.i-amphtml-layout-fixed-height
-# cdn.ampproject.org##.i-amphtml-layout.i-amphtml-element.i-amphtml-layout-size-defined.i-amphtml-layout-fixed-height > .i-amphtml-replaced-content.i-amphtml-fill-content
 cdn.ampproject.org##.i-amphtml-layout.i-amphtml-element.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.fixedframe
 cdn.ampproject.org##.i-amphtml-layout.i-amphtml-element.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.fixedframe > .i-amphtml-layout.i-amphtml-element.i-amphtml-layout-size-defined.i-amphtml-layout-fill > .i-amphtml-replaced-content.i-amphtml-fill-content
+cdn.ampproject.org##.maheir-div
 cdn.ampproject.org##.reklamorta
 cdn.ampproject.org##.sgl.sp > .ivr-img
 cdn.ampproject.org##center
@@ -3948,6 +3990,7 @@ geniusactivator.com,zeemalcrack.com,mixcracked.net,gotocrack.com,activatorscrack
 geniusactivator.com,zeemalcrack.com,mixcracked.net,gotocrack.com,activatorscrack.com##form > input
 geniusactivator.com,zeemalcrack.com,mixcracked.net,gotocrack.com,fixedcrack.com,activatorscrack.com##[href="javascript:void(0)"]
 geniusactivator.com,zeemalcrack.com,mixcracked.net,gotocrack.com,fixedcrack.com,activatorscrack.com##[href="javascript:void(0);"]
+glad-maheir-com.cdn.ampproject.org###uyari
 gomovies-online.com###g_OkygQXIHOBrCzUHOaOkWtNqR
 gomovies-online.com###g_OkygQXIHOBrCzUHOaOkWtNqR > [href="/user/profile/premium-membership"]
 gomovies-online.com##.g_FykXtctLBNBQMSbJUIBuvDJf [href] > [src]
@@ -4149,6 +4192,8 @@ markapark.com##.htext
 medyaalemi.com.tr##.paylasWrap
 meleklermekani.com##.FloatingContainer
 mepasenerji.com###dataPolicies
+mersinbest.com$document
+mersinbest.com$popup
 metalasopa137.weebly.com
 meteovista.com.tr###social
 milliyet.com.tr###upNextWrapper
@@ -4215,6 +4260,7 @@ polisaskeradaylari.com##div.ads:nth-of-type(3) > div > .adsbygoogle
 porn-desip-org.cdn.ampproject.org##.marquee
 porn-desip-org.cdn.ampproject.org##.marquee-outer
 porno-2devil-com.cdn.ampproject.org###vrsAlert
+pornomatic.org##.overlay
 r10.net##.r10-left
 rakip1.tv##.m-b-10.ad_300x250
 rakip1.tv##[href="https://rebrand.ly/9be06"]
@@ -4385,6 +4431,7 @@ www.izmirlitv.com##[href="http://www.vitrinlerim.xyz/ilan/izmir-karsiyaka-begum/
 www.izmirlitv.com##[href="http://www.vitrinlerim.xyz/ilan/izmir-karsiyaka-ece/"]
 www.izmirlitv.com##[href="http://www.vitrinlerim.xyz/ilan/izmir-karsiyaka-masoz-ezgi/"]
 www.izmirlitv.com##[href="http://www.vitrinlerim.xyz/ilan/izmir-karsiyaka-masoz-ozlem/"]
+www.jayla.info##.main > .holder > p
 www.oyunkuzusu.com###video-oyun
 www.roketdizi.pw/dizi/friends-turkce-dublaj$popup,domain=roketdizi.pw
 www.silentall.com##center > center > [href^="https://turb.to/turbo"]
@@ -5814,6 +5861,7 @@ zobt-alanam-com.cdn.ampproject.org##.amp-x-div
 ||nativespot.com^$third-party
 ||ndejhe73jslaw093.com$popup
 ||ndejhe73jslaw093.com$third-party
+||ndejhe73jslaw093.com/PVZ/PVZ.php$document
 ||ndejhe73jslaw093.com/PVZ/PVZ.php$popup
 ||ndejhe73jslaw093.com/PVZ/PVZ.php$third-party
 ||networkad.net^$third-party
@@ -6028,12 +6076,18 @@ zobt-alanam-com.cdn.ampproject.org##.amp-x-div
 ||smrtbnr.xyz^
 ||smrtcdn.club^
 ||sohbetara69.xyz*^$popup
+||sohbetbiz1.club$document
+||sohbetbiz1.club$popup
+||sohbetbiz1.club/gbxd$popup
+||sohbetbiz1.club/gbxd/dc47c$popup
 ||sohbetcepte.com/whatsapps*^$popup
 ||sohbetcepte.com/whatsapps/*^$popup
 ||sohbetcepte.com/whatsapps/^$all
 ||sohbetcepte.com/whatsapps^$all
 ||sohbetcepte.com^$all
 ||sohbetpaneli.xyz^$third-party
+||sohbetwa.club$document
+||sohbetwa.club$popup
 ||spannertaislee1983.files.wordpress.com^
 ||spannertaislee1983.wordpress.com^
 ||st.fl.ru/images/banners/*_1.png
@@ -6080,6 +6134,7 @@ zobt-alanam-com.cdn.ampproject.org##.amp-x-div
 ||trendbet42.com*^$popup
 ||trpdfs.info*^$popup
 ||trvdp.com^
+||tsyndicate.com$popup
 ||ttauri.livescience.com^
 ||turbotractor.ru*^$popup
 ||turkce-kitabin.ancient-egypt.ru^
@@ -6141,6 +6196,8 @@ zobt-alanam-com.cdn.ampproject.org##.amp-x-div
 ||wonoddgiris.com/wp-content/uploads/*/*.mp4
 ||wonoddgiris.com/wp-content/uploads/2021/08/Untitled-2.mp4$media
 ||www-amzaon-create-address.world-page-back-stage-asia.buzz*^popup
+||www-mersinbest-com.cdn.ampproject.org/v/www.mersinbest.com$document
+||www-mersinbest-com.cdn.ampproject.org/v/www.mersinbest.com$popup
 ||www.720pfilmizletir.com*^$popup
 ||www.720pfilmizletir.com/wp-content/uploads/2019/11/player.gif$image
 ||www.affibtm.com/^$popup
@@ -6194,6 +6251,7 @@ zobt-alanam-com.cdn.ampproject.org##.amp-x-div
 ||www.pdfindiroku.xyz*^$popup
 ||www.pdfkutuphanesi.com*^$popup
 ||www.popmobil.info/git.php^$all
+||www.pornomatic.org/wp-content/themes/detube/images/bg-grad.png$image
 ||www.portbet.net*^popup
 ||www.promosultan278.com*^$popup
 ||www.reqcdn.com/whatsapp/^$all

@@ -21,14 +21,6 @@
 127.0.0.1 109.73.75.3
 127.0.0.1 110380d053f716c4.com
 127.0.0.1 11820.com.tr
-127.0.0.1 4hfchest5kdnfnut.com
-127.0.0.1 www.4hfchest5kdnfnut.com
-127.0.0.1 sohbetbiz1.club
-127.0.0.1 sohbetwa.club
-127.0.0.1 www.sohbetbiz1.club
-127.0.0.1 www.sohbetwa.club
-127.0.0.1 lavanta.live
-127.0.0.1 www.lavanta.live
 127.0.0.1 15elon9.zgnkwfb.com
 127.0.0.1 15minutemanifestation-tr.com
 127.0.0.1 1686607364.rsc.cdn77.org
@@ -36,8 +28,6 @@
 127.0.0.1 16yp1ji92a.com
 127.0.0.1 197.25.189.78.static.turktelekom.com.tr
 127.0.0.1 1b969cef84d93b43.com
-127.0.0.1 www.mersinbest.com
-127.0.0.1 mersinbest.com
 127.0.0.1 1makrobetmedya.com
 127.0.0.1 1mwr.ru
 127.0.0.1 1pdfsplash5.indirdepo.mobi
@@ -92,6 +82,7 @@
 127.0.0.1 41df76c67812005c.com
 127.0.0.1 4club.com
 127.0.0.1 4club.reisen
+127.0.0.1 4hfchest5kdnfnut.com
 127.0.0.1 4turka.com
 127.0.0.1 50bahisnow.com
 127.0.0.1 518580904.log.optimizely.com
@@ -2449,6 +2440,7 @@
 127.0.0.1 latest-469682.takyake.ru
 127.0.0.1 latest-470281.takyake.ru
 127.0.0.1 lavande.com.tr
+127.0.0.1 lavanta.live
 127.0.0.1 lazllht.cf
 127.0.0.1 lazllht.ga
 127.0.0.1 lazllht.gq
@@ -2665,6 +2657,7 @@
 127.0.0.1 meleyjaniyah.wordpress.com
 127.0.0.1 melispastakalipcisi.com
 127.0.0.1 meritroyal200.bet
+127.0.0.1 mersinbest.com
 127.0.0.1 mersinses.com
 127.0.0.1 merturk.com.tr
 127.0.0.1 mervecapas.com.tr
@@ -3732,6 +3725,7 @@
 127.0.0.1 softwarer.us
 127.0.0.1 sohbetara25.xyz
 127.0.0.1 sohbetara69.xyz
+127.0.0.1 sohbetbiz1.club
 127.0.0.1 sohbetcepte.com
 127.0.0.1 sohbetesi1.com
 127.0.0.1 sohbetesi2.com
@@ -3744,6 +3738,7 @@
 127.0.0.1 sohbetodalari.net
 127.0.0.1 sohbetpaneli.xyz
 127.0.0.1 sohbetsaati.tk
+127.0.0.1 sohbetwa.club
 127.0.0.1 solvability.biz
 127.0.0.1 soma.smaato.net
 127.0.0.1 songursigorta.com
@@ -4368,6 +4363,7 @@
 127.0.0.1 www.41df76c67812005c.com
 127.0.0.1 www.4club.com
 127.0.0.1 www.4club.reisen
+127.0.0.1 www.4hfchest5kdnfnut.com
 127.0.0.1 www.4turka.com
 127.0.0.1 www.50bahisnow.com
 127.0.0.1 www.518580904.log.optimizely.com
@@ -6721,6 +6717,7 @@
 127.0.0.1 www.latest-469682.takyake.ru
 127.0.0.1 www.latest-470281.takyake.ru
 127.0.0.1 www.lavande.com.tr
+127.0.0.1 www.lavanta.live
 127.0.0.1 www.lazllht.cf
 127.0.0.1 www.lazllht.ga
 127.0.0.1 www.lazllht.gq
@@ -6937,6 +6934,7 @@
 127.0.0.1 www.meleyjaniyah.wordpress.com
 127.0.0.1 www.melispastakalipcisi.com
 127.0.0.1 www.meritroyal200.bet
+127.0.0.1 www.mersinbest.com
 127.0.0.1 www.mersinses.com
 127.0.0.1 www.merturk.com.tr
 127.0.0.1 www.mervecapas.com.tr
@@ -7998,6 +7996,7 @@
 127.0.0.1 www.softwarer.us
 127.0.0.1 www.sohbetara25.xyz
 127.0.0.1 www.sohbetara69.xyz
+127.0.0.1 www.sohbetbiz1.club
 127.0.0.1 www.sohbetcepte.com
 127.0.0.1 www.sohbetesi1.com
 127.0.0.1 www.sohbetesi2.com
@@ -8010,6 +8009,7 @@
 127.0.0.1 www.sohbetodalari.net
 127.0.0.1 www.sohbetpaneli.xyz
 127.0.0.1 www.sohbetsaati.tk
+127.0.0.1 www.sohbetwa.club
 127.0.0.1 www.solvability.biz
 127.0.0.1 www.soma.smaato.net
 127.0.0.1 www.songursigorta.com
