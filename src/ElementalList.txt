@@ -1,14 +1,14 @@
-# Title: huzunluartemis turkish elemental adlist
-# Format: Elemental Bloklist
-# Expires: 1 days
-# Homepage: https://github.com/huzunluartemis/TurkishAdblockList
-# Issues: https://github.com/huzunluartemis/TurkishAdblockList/issues
-# Source: https://raw.githubusercontent.com/huzunluartemis/TurkishAdblockList/main/src/ElementalList.txt
-# License: https://raw.githubusercontent.com/huzunluartemis/TurkishAdblockList/main/LICENSE
+! Title: huzunluartemis turkish elemental adlist
+! Format: Elemental Bloklist
+! Expires: 1 days
+! Homepage: https://github.com/huzunluartemis/TurkishAdblockList
+! Issues: https://github.com/huzunluartemis/TurkishAdblockList/issues
+! Source: https://raw.githubusercontent.com/huzunluartemis/TurkishAdblockList/main/src/ElementalList.txt
+! License: https://raw.githubusercontent.com/huzunluartemis/TurkishAdblockList/main/LICENSE
 
-# Copyright 2021 huzunluartemis
+! Copyright 2021 huzunluartemis
 
-# huzunluartemis/TurkishAdblockList başla
+! huzunluartemis/TurkishAdblockList başla
 ###adContentWrapper
 ###adv-link
 ###alt_kayan_reklam
@@ -801,6 +801,9 @@
 ##[href="www.vitrinlerim.xyz"]
 ##[href="www.vitrinlerim.xyz/"]
 ##[href^="//old.eniyioyuncu.com/oldstreaming/liste.html"]
+##[href^="0023780009"]
+##[href^="0032258893"]
+##[href^="003225889918"]
 ##[href^="10dfjhvbdfhv.xyz"]
 ##[href^="1xbet-won.com"]
 ##[href^="4club.reisen/landing"]
@@ -1088,6 +1091,17 @@
 ##[href^="http://affiliate.rusvpn.com/click.php"]
 ##[href^="http://airartapt.site"]
 ##[href^="http://airartapt.site/"]
+##[href^="http://alfagenturkiye.com"]
+##[href^="http://alfagenturkiye.com/l1"]
+##[href^="http://alfagenturkiye.com/l1/"]
+##[href^="http://alfagenturkiye.com/l1/?sub1=7dak"]
+##[href^="http://alfagenturkiye.com/l1/?sub1=7dak&sub2"]
+##[href^="http://alfagenturkiye.com/l1/?sub1=7dak&sub2="]
+##[href^="http://alfagenturkiye.com/l1/?sub1=7dak&sub2=Video"]
+##[href^="http://alfagenturkiye.com/l1/?sub1=7dak&sub2=Video&"]
+##[href^="http://alfagenturkiye.com/l1/?sub1=7dak&sub2=Video&cx"]
+##[href^="http://alfagenturkiye.com/l1/?sub1=7dak&sub2=Video&cx="]
+##[href^="http://alfagenturkiye.com/l1/?sub1=7dak&sub2=Video&cx=yytc"]
 ##[href^="http://amorenetwork.com"]
 ##[href^="http://anamimyjyp.tk/"]
 ##[href^="http://b.findyourpleasure1.life"]
@@ -1695,6 +1709,23 @@
 ##[href^="https://airartapt.site"]
 ##[href^="https://airartapt.site/"]
 ##[href^="https://akbet60.co/m"]
+##[href^="https://alfagenturkiye.com"]
+##[href^="https://alfagenturkiye.com/"]
+##[href^="https://alfagenturkiye.com/l1"]
+##[href^="https://alfagenturkiye.com/l1/"]
+##[href^="https://alfagenturkiye.com/l1/?"]
+##[href^="https://alfagenturkiye.com/l1/?sub1="]
+##[href^="https://alfagenturkiye.com/l1/?sub1=7"]
+##[href^="https://alfagenturkiye.com/l1/?sub1=7dak"]
+##[href^="https://alfagenturkiye.com/l1/?sub1=7dak&sub2"]
+##[href^="https://alfagenturkiye.com/l1/?sub1=7dak&sub2="]
+##[href^="https://alfagenturkiye.com/l1/?sub1=7dak&sub2=Video"]
+##[href^="https://alfagenturkiye.com/l1/?sub1=7dak&sub2=Video&"]
+##[href^="https://alfagenturkiye.com/l1/?sub1=7dak&sub2=Video&cx"]
+##[href^="https://alfagenturkiye.com/l1/?sub1=7dak&sub2=Video&cx="]
+##[href^="https://alfagenturkiye.com/l1/?sub1=7dak&sub2=Video&cx=yytc"]
+##[href^="https://alfagenturkiye.com/l1/?sub1]
+##[href^="https://alfagenturkiye.com/l1/]
 ##[href^="https://amorenetwork.com"]
 ##[href^="https://anamimyjyp.tk/"]
 ##[href^="https://b.findyourpleasure1.life"]
@@ -2578,6 +2609,7 @@
 ##[href^="tel:+0032258897"]
 ##[href^="tel:+0032258898"]
 ##[href^="tel:+0032258899"]
+##[href^="tel:+003225889918"]
 ##[href^="tel:+003225889999"]
 ##[href^="tel:+00325889357"]
 ##[href^="tel:+003535157302"]
@@ -2722,6 +2754,7 @@
 ##[href^="tel://+0032258897"]
 ##[href^="tel://+0032258898"]
 ##[href^="tel://+0032258899"]
+##[href^="tel://+003225889918"]
 ##[href^="tel://+003225889999"]
 ##[href^="tel://+00325889357"]
 ##[href^="tel://+003535157302"]
@@ -2866,6 +2899,7 @@
 ##[href^="tel://0032258897"]
 ##[href^="tel://0032258898"]
 ##[href^="tel://0032258899"]
+##[href^="tel://003225889918"]
 ##[href^="tel://003225889999"]
 ##[href^="tel://00325889357"]
 ##[href^="tel://003535157302"]
@@ -3993,6 +4027,7 @@ https://amp3-balbal-biz.cdn.ampproject.org/i/amp3.balbal.biz/pmx.gif
 https://amp3-balbal-biz.cdn.ampproject.org/i/amp3.balbal.biz/wpx1.gif
 https://amp3-bitra-info.cdn.ampproject.org/i/amp3.bitra.info/2.gif
 https://amp3-bitra-info.cdn.ampproject.org/i/amp3.bitra.info/wpx1.gif
+https://ana.7dakcdn.com/banner.php$document
 https://atvcdn*/*ivr*.png
 https://atvcdn*/*reklam*.png
 https://atvcdn*/*whatsapp*.png
@@ -4410,6 +4445,7 @@ zobt-alanam-com.cdn.ampproject.org##.amp-x-div
 ||*.*/wp-content/uploads/*/*/video*-ivr.gif^$image
 ||*.*wp-content/uploads/*/*betmatik*.png
 ||*./*/araara.png^$image
+||*./doeda/wp-content/uploads/*/*/*.gif$image
 ||*.ampproject.org*/*seks4.com*/*.gif$image
 ||*.ampproject.org*/bu2.gif$image
 ||*.ampproject.org*/iv1.gif$image
@@ -4447,6 +4483,7 @@ zobt-alanam-com.cdn.ampproject.org##.amp-x-div
 ||*.wp.com/www.thepiratecity.net/wp-content/uploads/*/*/download_green_secure_direct.png?w=720&ssl=1
 ||*.xyz/adr/images/*/*.jpg$image
 ||*/*%C5%9Fansl%C4%B1*.gif$image
+||*/*.alanam.com/wp-content/uploads/*/*/*.gif
 ||*/*/*bahse*gel*.mp4$media
 ||*/*/*bet*baba*.png$image
 ||*/*/*betbaba*.png$image
@@ -4811,6 +4848,7 @@ zobt-alanam-com.cdn.ampproject.org##.amp-x-div
 ||5posta.org
 ||7.uzelok4u.ru^
 ||720pfilmizletir.com*^$popup
+||7dakcdn.com/banner.php$document
 ||7daksohbet.com$popup
 ||7daksohbet.com$third-party
 ||88.150.149.92/~cosiker/$third-party
@@ -4923,6 +4961,7 @@ zobt-alanam-com.cdn.ampproject.org##.amp-x-div
 ||alyzeglascott.files.wordpress.com^
 ||alyzeglascott.wordpress.com^
 ||amazonaws.com/ad-maven-public-cdn/$third-party
+||ana.7dakcdn.com/banner.php$document
 ||anchor.fm/kimainign*^$popup
 ||ancient-egypt.ru^
 ||androidads23.adcolony.com^
@@ -6220,4 +6259,4 @@ zobt-alanam-com.cdn.ampproject.org##.amp-x-div
 ||zoellevereen1989.wordpress.com^
 ||ztpsapphireineer.files.wordpress.com^
 ||ztpsapphireineer.wordpress.com^
-# huzunluartemis/TurkishAdblockList bitir
+! huzunluartemis/TurkishAdblockList bitir

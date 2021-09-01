@@ -1,17 +1,17 @@
-# Title: huzunluartemis turkish host adlist
-# Format: Hosts
-# Expires: 1 days
-# Homepage: https://github.com/huzunluartemis/TurkishAdblockList
-# Issues: https://github.com/huzunluartemis/TurkishAdblockList/issues
-# Source: https://raw.githubusercontent.com/huzunluartemis/TurkishAdblockList/main/src/HostsList.txt
-# License: https://raw.githubusercontent.com/huzunluartemis/TurkishAdblockList/main/LICENSE
+! Title: huzunluartemis turkish host adlist
+! Format: Hosts
+! Expires: 1 days
+! Homepage: https://github.com/huzunluartemis/TurkishAdblockList
+! Issues: https://github.com/huzunluartemis/TurkishAdblockList/issues
+! Source: https://raw.githubusercontent.com/huzunluartemis/TurkishAdblockList/main/src/HostsList.txt
+! License: https://raw.githubusercontent.com/huzunluartemis/TurkishAdblockList/main/LICENSE
 
-# Copyright 2021 huzunluartemis
+! Copyright 2021 huzunluartemis
 
 127.0.0.1  localhost
 ::1  localhost
 
-# huzunluartemis/TurkishAdblockList başla
+! huzunluartemis/TurkishAdblockList başla
 127.0.0.1 05bursa-escortsc-com.cdn.ampproject.org
 127.0.0.1 0638.info
 127.0.0.1 0n.click
@@ -317,8 +317,6 @@
 127.0.0.1 ads.dt.mydas.mobi
 127.0.0.1 ads.ekstat.com
 127.0.0.1 ads.eu.msn.com
-127.0.0.1 ads.exdynsrv.com
-127.0.0.1 ads.exoclick.com
 127.0.0.1 ads.exoclick.haptube.com
 127.0.0.1 ads.exosrv.com
 127.0.0.1 ads.finzoom.com.tr
@@ -527,6 +525,7 @@
 127.0.0.1 alephd.com
 127.0.0.1 aletedevat.com.tr
 127.0.0.1 aleviturkler.com
+127.0.0.1 alfagenturkiye.com
 127.0.0.1 alfaturkey.com.tr
 127.0.0.1 aliapp.org
 127.0.0.1 alicicek.com.tr
@@ -3849,9 +3848,6 @@
 127.0.0.1 sync.mathtag.com
 127.0.0.1 sync.teads.tv
 127.0.0.1 sync01.engageya.com
-127.0.0.1 syndication.exdynsrv.com
-127.0.0.1 syndication.exoclick.com
-127.0.0.1 syndication.exosrv.com
 127.0.0.1 syndicpop.com
 127.0.0.1 system-security-com.xyz
 127.0.0.1 szczhal.cf
@@ -4597,8 +4593,6 @@
 127.0.0.1 www.ads.dt.mydas.mobi
 127.0.0.1 www.ads.ekstat.com
 127.0.0.1 www.ads.eu.msn.com
-127.0.0.1 www.ads.exdynsrv.com
-127.0.0.1 www.ads.exoclick.com
 127.0.0.1 www.ads.exoclick.haptube.com
 127.0.0.1 www.ads.exosrv.com
 127.0.0.1 www.ads.finzoom.com.tr
@@ -4807,6 +4801,7 @@
 127.0.0.1 www.alephd.com
 127.0.0.1 www.aletedevat.com.tr
 127.0.0.1 www.aleviturkler.com
+127.0.0.1 www.alfagenturkiye.com
 127.0.0.1 www.alfaturkey.com.tr
 127.0.0.1 www.aliapp.org
 127.0.0.1 www.alicicek.com.tr
@@ -8119,9 +8114,6 @@
 127.0.0.1 www.sync.mathtag.com
 127.0.0.1 www.sync.teads.tv
 127.0.0.1 www.sync01.engageya.com
-127.0.0.1 www.syndication.exdynsrv.com
-127.0.0.1 www.syndication.exoclick.com
-127.0.0.1 www.syndication.exosrv.com
 127.0.0.1 www.syndicpop.com
 127.0.0.1 www.system-security-com.xyz
 127.0.0.1 www.szczhal.cf
@@ -9231,4 +9223,4 @@
 127.0.0.1 zxmkvelyft.bid
 127.0.0.1 zzgqqdmnrhhals.com
 127.0.0.1 zzhgpbovlhinj.com
-# huzunluartemis/TurkishAdblockList bitir
+! huzunluartemis/TurkishAdblockList bitir
