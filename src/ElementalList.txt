@@ -9,8 +9,6 @@
 ! Copyright 2021 huzunluartemis
 
 ! huzunluartemis/TurkishAdblockList başla
-# cdn.ampproject.org##.i-amphtml-layout.i-amphtml-element.i-amphtml-layout-size-defined.i-amphtml-layout-fixed-height
-# cdn.ampproject.org##.i-amphtml-layout.i-amphtml-element.i-amphtml-layout-size-defined.i-amphtml-layout-fixed-height > .i-amphtml-replaced-content.i-amphtml-fill-content
 ###adContentWrapper
 ###adv-link
 ###alt_kayan_reklam
@@ -302,6 +300,8 @@
 ##[href="http://bursaescortss.allescortservices.com/"]
 ##[href="http://canikom.space"]
 ##[href="http://canikom.space/"]
+##[href="http://cdn111.com/ivr.php"]
+##[href="http://cdn111.com/ivr.php/"]
 ##[href="http://cepsohbetler13.online"]
 ##[href="http://cepsohbetler13.online/"]
 ##[href="http://cepsohbetler13.online/232"]
@@ -360,6 +360,8 @@
 ##[href="http://nirvanam.xyz/"]
 ##[href="http://onsekizurunleri.online"]
 ##[href="http://onsekizurunleri.online/"]
+##[href="http://papim.net"]
+##[href="http://papim.net/"]
 ##[href="http://partneralimi.xyz"]
 ##[href="http://partneralimi.xyz/"]
 ##[href="http://red.blok.link"]
@@ -493,6 +495,8 @@
 ##[href="https://bursaescortss.allescortservices.com/"]
 ##[href="https://canikom.space"]
 ##[href="https://canikom.space/"]
+##[href="https://cdn111.com/ivr.php"]
+##[href="https://cdn111.com/ivr.php/"]
 ##[href="https://cepsohbetler13.online"]
 ##[href="https://cepsohbetler13.online/"]
 ##[href="https://cepsohbetler13.online/232"]
@@ -574,6 +578,8 @@
 ##[href="https://onsekizurunleri.online"]
 ##[href="https://onsekizurunleri.online/"]
 ##[href="https://ouo.io/YH883e"]
+##[href="https://papim.net"]
+##[href="https://papim.net/"]
 ##[href="https://partneralimi.xyz"]
 ##[href="https://partneralimi.xyz/"]
 ##[href="https://rebrand.ly/9be06"]
@@ -737,8 +743,13 @@
 ##[href="sharing-pdf.jscinmark.ru/zh-CN"]
 ##[href="sharing-pdf.jscinmark.ru/zh-CN/files-fre"]
 ##[href="sharing-pdf.jscinmark.ru/zh-CN/files-free"]
+##[href="tel: +002378000223"]
+##[href="tel:+002378000223"]
 ##[href="tel:+3225889110"]
+##[href="tel://+002378000223"]
+##[href="tel://002378000223"]
 ##[href="tel://3225889110"]
+##[href="tel:002378000223"]
 ##[href="tel:3225889110"]
 ##[href="ulrh.mobilhdizle.com"]
 ##[href="ulrh.mobilhdizle.com/"]
@@ -3729,6 +3740,7 @@ ampproject.org###iOssi
 ampproject.org##.fnzClick
 ampproject.org##.jrek
 ampproject.org*porn*yuklen*.gif^$image
+anasbabgicaji-pornmsc-com.cdn.ampproject.org##.ara-banner
 anchor.fm/kimainign
 arabam.com##.db.dn
 aradiginindir.blogspot.com##.linktl_flashad_wrap.linktl_flashad_reset
@@ -3869,6 +3881,9 @@ cdn.ampproject.org##div.top5.z-indx.col-xs-12:nth-of-type(8) > .ara-banner
 cdn.ampproject.org##div.top5.z-indx.col-xs-12:nth-of-type(9) > .ara-banner
 cdn.ampproject.org/i/s/*.*/uploads/*/Obilet.jpg
 ceaksan.com###ads
+cekemiyorlarseni.kraltube.net,papim-pornoparty-net.cdn.ampproject.org,cekemiyorlarseni.pornoparty.net,pornoparty.net,kraltube.net##.i-amphtml-fill-content.i-amphtml-android-poster-bug
+cekemiyorlarseni.kraltube.net,papim-pornoparty-net.cdn.ampproject.org,cekemiyorlarseni.pornoparty.net,pornoparty.net,kraltube.net##.iletisim
+cekemiyorlarseni.kraltube.net,papim-pornoparty-net.cdn.ampproject.org,cekemiyorlarseni.pornoparty.net,pornoparty.net,kraltube.net##.iletisim2
 chaicdn.com*/3.gif$image
 cnnturk.com##.newsletter-form
 comparatives.cumleleri.com##.clearfix.hentry.type-page > div:nth-of-type(1) > .adsbygoogle
@@ -4436,6 +4451,7 @@ www.oyunkuzusu.com###video-oyun
 www.roketdizi.pw/dizi/friends-turkce-dublaj$popup,domain=roketdizi.pw
 www.silentall.com##center > center > [href^="https://turb.to/turbo"]
 www.silentall.com##center:nth-of-type(2) > [href^="https://turb.to/turbo"]
+www.sophias.info###v-player > p
 www.ucosi.com##.single-header
 www.webtekno.com##.hide-mobile > .adsbygoogle
 xxccdshj.com##*
@@ -6098,6 +6114,7 @@ zobt-alanam-com.cdn.ampproject.org##.amp-x-div
 ||sunucu9.com/js/$third-party
 ||sunucu9.com/redirect/$popup
 ||supermesaj.tv*^$popup
+||superporno*.cdn.ampproject.org/i/*/*/*.gif
 ||supprifuchdio1978.files.wordpress.com^
 ||supprifuchdio1978.wordpress.com^
 ||sw1block.com^$third-party
@@ -6138,6 +6155,7 @@ zobt-alanam-com.cdn.ampproject.org##.amp-x-div
 ||ttauri.livescience.com^
 ||turbotractor.ru*^$popup
 ||turkce-kitabin.ancient-egypt.ru^
+||turkcealtyazilipornom.com/wp-content/uploads/*/*/Turkce-altyazili-pornom.png$image
 ||turkiyecinselbayisi.site*^$popup
 ||turkmmo.com*^$popup
 ||turngrind.com^$third-party
@@ -6290,6 +6308,7 @@ zobt-alanam-com.cdn.ampproject.org##.amp-x-div
 ||xmtgoldalizer.files.wordpress.com^
 ||xmtgoldalizer.wordpress.com^
 ||xmtrk.com^$third-party
+||xn--0-8ic.xyz/*/*.gif
 ||xn--yapkredi-vkb.com*^$popup
 ||xpornoizlee.com^$third-party
 ||xpornoizlex.net^$third-party
