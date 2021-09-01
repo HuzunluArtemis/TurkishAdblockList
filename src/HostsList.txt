@@ -21,6 +21,14 @@
 127.0.0.1 109.73.75.3
 127.0.0.1 110380d053f716c4.com
 127.0.0.1 11820.com.tr
+127.0.0.1 4hfchest5kdnfnut.com
+127.0.0.1 www.4hfchest5kdnfnut.com
+127.0.0.1 sohbetbiz1.club
+127.0.0.1 sohbetwa.club
+127.0.0.1 www.sohbetbiz1.club
+127.0.0.1 www.sohbetwa.club
+127.0.0.1 lavanta.live
+127.0.0.1 www.lavanta.live
 127.0.0.1 15elon9.zgnkwfb.com
 127.0.0.1 15minutemanifestation-tr.com
 127.0.0.1 1686607364.rsc.cdn77.org
@@ -28,6 +36,8 @@
 127.0.0.1 16yp1ji92a.com
 127.0.0.1 197.25.189.78.static.turktelekom.com.tr
 127.0.0.1 1b969cef84d93b43.com
+127.0.0.1 www.mersinbest.com
+127.0.0.1 mersinbest.com
 127.0.0.1 1makrobetmedya.com
 127.0.0.1 1mwr.ru
 127.0.0.1 1pdfsplash5.indirdepo.mobi
