@@ -668,6 +668,7 @@
 127.0.0.1 appsflyer.com
 127.0.0.1 apuppy2love.com
 127.0.0.1 ar.caginerhastanesi.com.tr
+127.0.0.1 ara.sohbetegelin3.xyz
 127.0.0.1 arabaemlak.com
 127.0.0.1 arabeni.rlink.live
 127.0.0.1 arabpornx.com
@@ -1114,6 +1115,7 @@
 127.0.0.1 canpazari.com
 127.0.0.1 cansesiasknefesi.com
 127.0.0.1 capcanlisohbet.site
+127.0.0.1 capitolhizligiris.com
 127.0.0.1 casalemedia.com
 127.0.0.1 casinokeeper.net
 127.0.0.1 casinoslot81.com
@@ -2036,6 +2038,7 @@
 127.0.0.1 humanplus.com.tr
 127.0.0.1 humayraberchielli87.files.wordpress.com
 127.0.0.1 humayraberchielli87.wordpress.com
+127.0.0.1 humpaki.com
 127.0.0.1 huzursuz.info
 127.0.0.1 hwn500.de
 127.0.0.1 hxuasnwokh.com
@@ -2171,6 +2174,7 @@
 127.0.0.1 istanbulairporttransfer.ist
 127.0.0.1 istanbuldanskursu.com
 127.0.0.1 istanbuleskort.net
+127.0.0.1 istanbulhizligiris.com
 127.0.0.1 istanbuliklimlendirme.net
 127.0.0.1 istanbulkoz.com
 127.0.0.1 istanbulrestaurantbirmingham.com
@@ -2194,6 +2198,7 @@
 127.0.0.1 iuwniunver.site
 127.0.0.1 ivr.com.tr
 127.0.0.1 ivreprsident.tk
+127.0.0.1 ixirhizligiris.net
 127.0.0.1 iyijadeitect.files.wordpress.com
 127.0.0.1 iyijadeitect.wordpress.com
 127.0.0.1 izle9.com
@@ -3728,6 +3733,7 @@
 127.0.0.1 sohbetara69.xyz
 127.0.0.1 sohbetbiz1.club
 127.0.0.1 sohbetcepte.com
+127.0.0.1 sohbetegelin3.xyz
 127.0.0.1 sohbetesi1.com
 127.0.0.1 sohbetesi2.com
 127.0.0.1 sohbetesiniz.com
@@ -3802,6 +3808,7 @@
 127.0.0.1 stats.appsflyer.com
 127.0.0.1 stats.pagefair.com
 127.0.0.1 stats.posta.com.tr
+127.0.0.1 stats.reqcdn.com
 127.0.0.1 stats.tv8.com.tr
 127.0.0.1 stats.unity3d.com
 127.0.0.1 stats.videoseyredin.net
@@ -5396,6 +5403,7 @@
 127.0.0.1 www.canpazari.com
 127.0.0.1 www.cansesiasknefesi.com
 127.0.0.1 www.capcanlisohbet.site
+127.0.0.1 www.capitolhizligiris.com
 127.0.0.1 www.casalemedia.com
 127.0.0.1 www.casinokeeper.net
 127.0.0.1 www.casinoslot81.com
@@ -6313,6 +6321,7 @@
 127.0.0.1 www.humanplus.com.tr
 127.0.0.1 www.humayraberchielli87.files.wordpress.com
 127.0.0.1 www.humayraberchielli87.wordpress.com
+127.0.0.1 www.humpaki.com
 127.0.0.1 www.huzursuz.info
 127.0.0.1 www.hwn500.de
 127.0.0.1 www.hxuasnwokh.com
@@ -6448,6 +6457,7 @@
 127.0.0.1 www.istanbulairporttransfer.ist
 127.0.0.1 www.istanbuldanskursu.com
 127.0.0.1 www.istanbuleskort.net
+127.0.0.1 www.istanbulhizligiris.com
 127.0.0.1 www.istanbuliklimlendirme.net
 127.0.0.1 www.istanbulkoz.com
 127.0.0.1 www.istanbulrestaurantbirmingham.com
@@ -6471,6 +6481,7 @@
 127.0.0.1 www.iuwniunver.site
 127.0.0.1 www.ivr.com.tr
 127.0.0.1 www.ivreprsident.tk
+127.0.0.1 www.ixirhizligiris.net
 127.0.0.1 www.iyijadeitect.files.wordpress.com
 127.0.0.1 www.iyijadeitect.wordpress.com
 127.0.0.1 www.izle9.com
@@ -7999,6 +8010,7 @@
 127.0.0.1 www.sohbetara69.xyz
 127.0.0.1 www.sohbetbiz1.club
 127.0.0.1 www.sohbetcepte.com
+127.0.0.1 www.sohbetegelin3.xyz
 127.0.0.1 www.sohbetesi1.com
 127.0.0.1 www.sohbetesi2.com
 127.0.0.1 www.sohbetesiniz.com
