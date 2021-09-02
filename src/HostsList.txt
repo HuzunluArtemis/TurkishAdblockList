@@ -45,6 +45,7 @@
 127.0.0.1 1xbeettuyelik.xyz
 127.0.0.1 1xbet-won.com
 127.0.0.1 1xbet.mobi
+127.0.0.1 1xbetcarat.com
 127.0.0.1 1xbetcom.mobi
 127.0.0.1 1xbetlat.mobi
 127.0.0.1 1xbetm.mobi
@@ -79,6 +80,7 @@
 127.0.0.1 389807.com
 127.0.0.1 3efetarim.com
 127.0.0.1 3makrobetmedya.com
+127.0.0.1 3mobilecasino.com
 127.0.0.1 3perabetmedya.com
 127.0.0.1 41df76c67812005c.com
 127.0.0.1 4club.com
@@ -602,6 +604,7 @@
 127.0.0.1 ankara24saatacikcicekci.com
 127.0.0.1 ankara24saatcicek.com
 127.0.0.1 ankara24saatcicek.net
+127.0.0.1 ankaraaltin.com
 127.0.0.1 ankarabeads.com
 127.0.0.1 ankaradellservisi.com
 127.0.0.1 ankaraescortfm.com
@@ -900,6 +903,7 @@
 127.0.0.1 betco.link
 127.0.0.1 betconstruct.com
 127.0.0.1 betcoswarm.com
+127.0.0.1 betebet.ws
 127.0.0.1 betendads.com
 127.0.0.1 bethepresharthe.info
 127.0.0.1 bethub.io
@@ -1283,6 +1287,7 @@
 127.0.0.1 clicktripz.com
 127.0.0.1 client-event-reporter.twitch.tv
 127.0.0.1 clinica-de-termografia.eu
+127.0.0.1 clip-art-center.com
 127.0.0.1 clixco.in
 127.0.0.1 clkn.adzopa.com
 127.0.0.1 clksite.com
@@ -1631,6 +1636,7 @@
 127.0.0.1 error-collector.ted.com
 127.0.0.1 ersankaravan.com
 127.0.0.1 ersbaca.com.tr
+127.0.0.1 eryamangaleria.com
 127.0.0.1 eryunhali.com.tr
 127.0.0.1 esc-ankarafoto-com.cdn.ampproject.org
 127.0.0.1 esc.ankarafoto.com
@@ -1863,6 +1869,7 @@
 127.0.0.1 go.padstm.com
 127.0.0.1 go.spaceshipads.com
 127.0.0.1 go.trafficshop.com
+127.0.0.1 go.ulumobgo19.com
 127.0.0.1 goker.com.tr
 127.0.0.1 gokhancakmak.com.tr
 127.0.0.1 gokkusagidagitim.com.tr
@@ -2173,6 +2180,7 @@
 127.0.0.1 ispapazarlama.com.tr
 127.0.0.1 istanbul-amerikankapi-mutfakdolabi-parke-fiyatlari-modelleri.com
 127.0.0.1 istanbulairporttransfer.ist
+127.0.0.1 istanbulbogazi.net
 127.0.0.1 istanbuldanskursu.com
 127.0.0.1 istanbuleskort.net
 127.0.0.1 istanbulhizligiris.com
@@ -2410,6 +2418,7 @@
 127.0.0.1 konyavakfi.nl
 127.0.0.1 kos.interseek.si
 127.0.0.1 kosel.com.tr
+127.0.0.1 kotonescort.com
 127.0.0.1 kralfilm.com
 127.0.0.1 kriptoparahaber.matomo.cloud
 127.0.0.1 krsk-kvest.ru
@@ -2722,6 +2731,7 @@
 127.0.0.1 mob1ledev1ces.com
 127.0.0.1 mobi-kitap-indir.info
 127.0.0.1 mobil-izle.xyz
+127.0.0.1 mobilbahis.girbahise.com
 127.0.0.1 mobile-collector.newrelic.com
 127.0.0.1 mobile-crash.newrelic.com
 127.0.0.1 mobile.logs.roku.com
@@ -3772,6 +3782,8 @@
 127.0.0.1 sportlijn.net
 127.0.0.1 sportpelli.com
 127.0.0.1 sports-look.com
+127.0.0.1 sqnnoazk-clip--art--center-com.cdn.ampproject.org
+127.0.0.1 sqnnoazk.clip-art-center.com
 127.0.0.1 srr.thedragonbahis.com
 127.0.0.1 srv.buysellads.com
 127.0.0.1 srv.sayyac.net
@@ -3876,6 +3888,7 @@
 127.0.0.1 t.skimresources.com
 127.0.0.1 t.tmdn2015x9.com
 127.0.0.1 t1.clipkit.com
+127.0.0.1 t2bro.com
 127.0.0.1 tabanway.com.tr
 127.0.0.1 taberei.services
 127.0.0.1 tagon.co
@@ -3891,6 +3904,7 @@
 127.0.0.1 tapfiliate.com
 127.0.0.1 tapjoy.com
 127.0.0.1 tapjoyads.com
+127.0.0.1 tarabetgiris.com
 127.0.0.1 tarahjirooke.files.wordpress.com
 127.0.0.1 tarahjirooke.wordpress.com
 127.0.0.1 tarcanlar.com.tr
@@ -3927,6 +3941,7 @@
 127.0.0.1 tiktokweb.org
 127.0.0.1 tindersohbet.xyz
 127.0.0.1 tipobet0195.com
+127.0.0.1 tipobet365.girbahise.com
 127.0.0.1 tita.com.tr
 127.0.0.1 titanturkey.com
 127.0.0.1 tk41.xyz
@@ -4016,6 +4031,7 @@
 127.0.0.1 truefalserdr14.agency
 127.0.0.1 trust.zone
 127.0.0.1 trustednotice.news
+127.0.0.1 truvabetgiris.info
 127.0.0.1 truvacdn.com
 127.0.0.1 tt1.oload.stream
 127.0.0.1 tt1.openload.co
@@ -4102,6 +4118,7 @@
 127.0.0.1 ulrh.mobilhdizle.com
 127.0.0.1 ultrabet113.com
 127.0.0.1 ultrabet120.com
+127.0.0.1 ulumobgo19.com
 127.0.0.1 ulushaber.com
 127.0.0.1 um.simpli.fi
 127.0.0.1 um2.eqads.com
@@ -4159,6 +4176,8 @@
 127.0.0.1 va.origin.startappservice.com
 127.0.0.1 vajubhai.com
 127.0.0.1 valeriaguzellik.com.tr
+127.0.0.1 valik-info.cdn.ampproject.org
+127.0.0.1 valik.info
 127.0.0.1 vapi.apk.v-mate.mobi
 127.0.0.1 vapi.apk.vidmate.net
 127.0.0.1 varimed.com.tr
@@ -4231,6 +4250,7 @@
 127.0.0.1 vpshsuvlh.bid
 127.0.0.1 vugtrack.top
 127.0.0.1 vungle.com
+127.0.0.1 vvappsohbeti.site
 127.0.0.1 vvhatsappsohbet.site
 127.0.0.1 wagonistanbul.com
 127.0.0.1 walid.info
@@ -4303,6 +4323,7 @@
 127.0.0.1 ww38.stickfight.com
 127.0.0.1 www-amzaon-create-address.world-page-back-stage-asia.buzz
 127.0.0.1 www-keycdn-info.cdn.ampproject.org
+127.0.0.1 www..girbahise.com
 127.0.0.1 www.05bursa-escortsc-com.cdn.ampproject.org
 127.0.0.1 www.0638.info
 127.0.0.1 www.0n.click
@@ -4335,6 +4356,7 @@
 127.0.0.1 www.1xbeettuyelik.xyz
 127.0.0.1 www.1xbet-won.com
 127.0.0.1 www.1xbet.mobi
+127.0.0.1 www.1xbetcarat.com
 127.0.0.1 www.1xbetcom.mobi
 127.0.0.1 www.1xbetlat.mobi
 127.0.0.1 www.1xbetm.mobi
@@ -4892,6 +4914,7 @@
 127.0.0.1 www.ankara24saatacikcicekci.com
 127.0.0.1 www.ankara24saatcicek.com
 127.0.0.1 www.ankara24saatcicek.net
+127.0.0.1 www.ankaraaltin.com
 127.0.0.1 www.ankarabeads.com
 127.0.0.1 www.ankaradellservisi.com
 127.0.0.1 www.ankaraescortfm.com
@@ -5189,6 +5212,7 @@
 127.0.0.1 www.betco.link
 127.0.0.1 www.betconstruct.com
 127.0.0.1 www.betcoswarm.com
+127.0.0.1 www.betebet.ws
 127.0.0.1 www.betendads.com
 127.0.0.1 www.bethepresharthe.info
 127.0.0.1 www.bethub.io
@@ -5918,6 +5942,7 @@
 127.0.0.1 www.error-collector.ted.com
 127.0.0.1 www.ersankaravan.com
 127.0.0.1 www.ersbaca.com.tr
+127.0.0.1 www.eryamangaleria.com
 127.0.0.1 www.eryunhali.com.tr
 127.0.0.1 www.esc-ankarafoto-com.cdn.ampproject.org
 127.0.0.1 www.esc.ankarafoto.com
@@ -6457,6 +6482,7 @@
 127.0.0.1 www.ispapazarlama.com.tr
 127.0.0.1 www.istanbul-amerikankapi-mutfakdolabi-parke-fiyatlari-modelleri.com
 127.0.0.1 www.istanbulairporttransfer.ist
+127.0.0.1 www.istanbulbogazi.net
 127.0.0.1 www.istanbuldanskursu.com
 127.0.0.1 www.istanbuleskort.net
 127.0.0.1 www.istanbulhizligiris.com
@@ -6694,6 +6720,7 @@
 127.0.0.1 www.konyavakfi.nl
 127.0.0.1 www.kos.interseek.si
 127.0.0.1 www.kosel.com.tr
+127.0.0.1 www.kotonescort.com
 127.0.0.1 www.kralfilm.com
 127.0.0.1 www.kriptoparahaber.matomo.cloud
 127.0.0.1 www.krsk-kvest.ru
@@ -8153,6 +8180,7 @@
 127.0.0.1 www.t.skimresources.com
 127.0.0.1 www.t.tmdn2015x9.com
 127.0.0.1 www.t1.clipkit.com
+127.0.0.1 www.t2bro.com
 127.0.0.1 www.tabanway.com.tr
 127.0.0.1 www.taberei.services
 127.0.0.1 www.tagon.co
@@ -8290,6 +8318,7 @@
 127.0.0.1 www.truefalserdr14.agency
 127.0.0.1 www.trust.zone
 127.0.0.1 www.trustednotice.news
+127.0.0.1 www.truvabetgiris.info
 127.0.0.1 www.truvacdn.com
 127.0.0.1 www.tt1.oload.stream
 127.0.0.1 www.tt1.openload.co
@@ -8431,6 +8460,7 @@
 127.0.0.1 www.va.origin.startappservice.com
 127.0.0.1 www.vajubhai.com
 127.0.0.1 www.valeriaguzellik.com.tr
+127.0.0.1 www.valik.info
 127.0.0.1 www.vapi.apk.v-mate.mobi
 127.0.0.1 www.vapi.apk.vidmate.net
 127.0.0.1 www.varimed.com.tr
@@ -8503,6 +8533,7 @@
 127.0.0.1 www.vpshsuvlh.bid
 127.0.0.1 www.vugtrack.top
 127.0.0.1 www.vungle.com
+127.0.0.1 www.vvappsohbeti.site
 127.0.0.1 www.vvhatsappsohbet.site
 127.0.0.1 www.wagonistanbul.com
 127.0.0.1 www.walid.info
