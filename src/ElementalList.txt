@@ -4370,6 +4370,16 @@ skln-nevale-info.cdn.ampproject.org###iv-kayan
 smartcdn.site
 softexiacrack.com##[href="https://softexiacrack.com/"]
 softkeybox.com##.buttonPress-127
+sohbetegelin3.xyz###wrapper
+sohbetegelin3.xyz##.barre
+sohbetegelin3.xyz##.full
+sohbetegelin3.xyz##.hotesses
+sohbetegelin3.xyz##.mobile
+sohbetegelin3.xyz##.texte-footer
+sohbetegelin3.xyz##footer
+sohbetegelin3.xyz##h2
+sohbetegelin3.xyz##header
+sohbetegelin3.xyz##nav
 sohbetegelin3.xyz^$document
 sohbetegelin3.xyz^$third-party
 solidshare.*##[href="https://www.sonsuziptv.net"]

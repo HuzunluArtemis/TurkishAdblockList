@@ -28,6 +28,7 @@
 127.0.0.1 16yp1ji92a.com
 127.0.0.1 197.25.189.78.static.turktelekom.com.tr
 127.0.0.1 1b969cef84d93b43.com
+127.0.0.1 1d653edba26.trccmpnsl.com
 127.0.0.1 1makrobetmedya.com
 127.0.0.1 1mwr.ru
 127.0.0.1 1pdfsplash5.indirdepo.mobi
@@ -3997,6 +3998,7 @@
 127.0.0.1 trafyield.com
 127.0.0.1 trbetmedia.com
 127.0.0.1 trc.taboola.com
+127.0.0.1 trccmpnsl.com
 127.0.0.1 trecurlik.com
 127.0.0.1 trend-tech.net
 127.0.0.1 trendbet42.com
