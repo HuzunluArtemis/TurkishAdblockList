@@ -5407,6 +5407,9 @@ zobt-alanam-com.cdn.ampproject.org##.amp-x-div
 ||eskortbeylikduzu.com/ad-category/esenyurt-escort*^$popup
 ||eviewporn*/milf-min.png$image
 ||evlenirim.com*^$popup
+||exinariuminix.info$popup
+||exinariuminix.info^$all
+||exinariuminix.info^$popup
 ||exosrv.com^
 ||exxenim.com*^$popup
 ||exxenzone.com*^$popup
@@ -5436,6 +5439,9 @@ zobt-alanam-com.cdn.ampproject.org##.amp-x-div
 ||flirtsexmeet.info*^popup
 ||flmallplayer.*/*sultan*bet*.mp4$media
 ||flmallplayer.*/*sultanbet*.mp4$media
+||forlumineontor.com$all
+||forlumineontor.com$popup
+||forlumineontor.com^$popup
 ||forum.josiecarterproductionsllc.org^$all
 ||forum.turkmmo.com*^$popup
 ||fotos-paisajes.net ^
