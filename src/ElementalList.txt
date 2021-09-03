@@ -130,6 +130,8 @@
 ##.intbetads-FIX
 ##.ivr > a > img
 ##.ivr-reklam
+##.ivrtop
+##.ivrvid
 ##.kanalustureklam
 ##.m-b-10.ad_300x250
 ##.m-b-10.ad_300x300
@@ -764,11 +766,19 @@
 ##[href="sharing-pdf.jscinmark.ru/zh-CN/files-free"]
 ##[href="tel: +002378000223"]
 ##[href="tel:+002378000223"]
+##[href="tel:+0023781111"]
+##[href="tel:+0032258891"]
 ##[href="tel:+3225889110"]
 ##[href="tel://+002378000223"]
+##[href="tel://+0023781111"]
+##[href="tel://+0032258891"]
 ##[href="tel://002378000223"]
+##[href="tel://0023781111"]
+##[href="tel://0032258891"]
 ##[href="tel://3225889110"]
 ##[href="tel:002378000223"]
+##[href="tel:0023781111"]
+##[href="tel:0032258891"]
 ##[href="tel:3225889110"]
 ##[href="ulrh.mobilhdizle.com"]
 ##[href="ulrh.mobilhdizle.com/"]
