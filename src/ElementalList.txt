@@ -77,6 +77,7 @@
 ###ustReklam
 ###ustreklam
 ###ustreklamlar
+###uyari
 ###video_player + #after-video
 ###videoreklam
 ###vrs-alert
@@ -92,6 +93,7 @@
 ##.adsindirim
 ##.adsortalaindirim
 ##.adsVideo
+##.amp-red-div
 ##.arkaplanreklam
 ##.articleContent > .adsbygoogle
 ##.banner300x250
@@ -2743,6 +2745,7 @@
 ##[href^="tel:+05531693835"]
 ##[href^="tel:+05550224658"]
 ##[href^="tel:+05550830585"]
+##[href^="tel:+3225889110"]
 ##[href^="tel:+851095300"]
 ##[href^="tel://+002378000031"]
 ##[href^="tel://+00237800009"]
@@ -2890,6 +2893,7 @@
 ##[href^="tel://+05531693835"]
 ##[href^="tel://+05550224658"]
 ##[href^="tel://+05550830585"]
+##[href^="tel://+3225889110"]
 ##[href^="tel://+851095300"]
 ##[href^="tel://002378000031"]
 ##[href^="tel://00237800009"]
@@ -3037,6 +3041,7 @@
 ##[href^="tel://05531693835"]
 ##[href^="tel://05550224658"]
 ##[href^="tel://05550830585"]
+##[href^="tel://3225889110"]
 ##[href^="tel://851095300"]
 ##[href^="tel:002378000031"]
 ##[href^="tel:00237800009"]
@@ -3183,6 +3188,7 @@
 ##[href^="tel:05531693835"]
 ##[href^="tel:05550224658"]
 ##[href^="tel:05550830585"]
+##[href^="tel:3225889110"]
 ##[href^="tel:851095300"]
 ##[href^="telegramchannels.me/gopr/75"]
 ##[href^="telegramchannels.me/gopr/75/"]
@@ -4344,6 +4350,7 @@ porn-desip-org.cdn.ampproject.org##.marquee-outer
 porncini.com##h1 > span
 porno-2devil-com.cdn.ampproject.org###vrsAlert
 pornomatic.org##.overlay
+pornomatic.org##center > p
 prizedreams.net$document
 prizedreams.net$third-party
 pushweb.link$document
@@ -5013,6 +5020,7 @@ zobt-alanam-com.cdn.ampproject.org##.amp-x-div
 ||5posta.org
 ||7.uzelok4u.ru^
 ||720pfilmizletir.com*^$popup
+||720pfilmizletir.com/wp-content/uploads/2019/11/player.gif$image
 ||7dakcdn.com/banner.php$document
 ||7daksohbet.com$popup
 ||7daksohbet.com$third-party
@@ -5106,6 +5114,7 @@ zobt-alanam-com.cdn.ampproject.org##.amp-x-div
 ||affibtm.com^$popup
 ||affiliate.anadolucasino188.com*^$popup
 ||affiliateserver.hangikredi.com^$third-party
+||affmaksibet.com/m443719.html^$all
 ||affmaksibet.com^$all
 ||africa2019.blogaaja.fi^
 ||afyonturkreklam.com^$third-party
@@ -5123,6 +5132,7 @@ zobt-alanam-com.cdn.ampproject.org##.amp-x-div
 ||alfagenturkiye.com$popup
 ||alfagenturkiye.com$third-party
 ||allescortservices.com*^$popup
+||allescortservices.com*^popup
 ||alyzeglascott.files.wordpress.com^
 ||alyzeglascott.wordpress.com^
 ||amazonaws.com/ad-maven-public-cdn/$third-party
@@ -5143,6 +5153,7 @@ zobt-alanam-com.cdn.ampproject.org##.amp-x-div
 ||atakoyeskort.com*^$popup
 ||atbodrum.com^$all
 ||atvcdn.com/amp/img/*.gif^$image
+||atvcdn.com/pp/^$all
 ||avaeahpederson1986.files.wordpress.com^
 ||avaeahpederson1986.wordpress.com^
 ||avcilarescort.org*^$all
@@ -5182,6 +5193,13 @@ zobt-alanam-com.cdn.ampproject.org##.amp-x-div
 ||bcvc.live/dist/img/b*g$image
 ||bcvc.mobi^$third-party
 ||bcvcrdr.xyz^$third-party
+||bcvcurl.info$third-party
+||bcvcurl.info/url3.php$all
+||bcvcurl.info/url3.php$document
+||bcvcurl.info/url3.php$popup
+||bcvcurl.info/url3.php^$all
+||bcvcurl.info/url3.php^$popup
+||bcvcurl.info^$popup
 ||belespdf.com^
 ||belrosepax1992.files.wordpress.com^
 ||belrosepax1992.wordpress.com^
@@ -5464,6 +5482,7 @@ zobt-alanam-com.cdn.ampproject.org##.amp-x-div
 ||geanopulostelvin94.wordpress.com^
 ||gelirartisi.com^$third-party
 ||genelajans.com^$third-party
+||gidigidi.net*^$popup
 ||git.emarketing724.com^$third-party
 ||gizabetgirisyap.com*^$popup
 ||gndrglsn.com^$third-party
@@ -5912,6 +5931,8 @@ zobt-alanam-com.cdn.ampproject.org##.amp-x-div
 ||jolavacaster.wordpress.com^
 ||josiecarterproductionsllc.org^$all
 ||jscinmark.ru^$all
+||jspop.xyz/code/*.jpg
+||jspop.xyz/code/*.png
 ||kalitelialtyazilar.xyz/wp-content/uploads/*/*/*.gif$image
 ||kalitereklam.com^$third-party
 ||kamuevlilik.com*^$popup
@@ -5962,6 +5983,7 @@ zobt-alanam-com.cdn.ampproject.org##.amp-x-div
 ||kurulum.xyz^$third-party
 ||kutuphanesi.kickscooter.ru^
 ||kutuphanesi.kickscooter.ru^$all
+||kuuzporn.com/wp-content/themes/turkporno/images/icon-play-48.png$image
 ||lassanalenahan90.files.wordpress.com^
 ||lassanalenahan90.wordpress.com^
 ||ledabbspecaf1975.files.wordpress.com^
@@ -6009,6 +6031,7 @@ zobt-alanam-com.cdn.ampproject.org##.amp-x-div
 ||msqlinkagram.wordpress.com^
 ||mundinemayven.files.wordpress.com^
 ||mundinemayven.wordpress.com^
+||mutlukedi.com/^$all
 ||mycbet.com*^$popup
 ||myfotolife.xyz*^$popup
 ||mynativeads.com^$third-party
@@ -6104,8 +6127,10 @@ zobt-alanam-com.cdn.ampproject.org##.amp-x-div
 ||ponylo.freesite.host^
 ||popcent.net*^$popup
 ||popcent.org*^$popup
+||popmobil.info/git.php^$all
 ||pornfilmsex.com/*.gif$image
 ||pornoizle-hd.com^$third-party
+||pornomatic.org/wp-content/themes/detube/images/bg-grad.png$image
 ||portbet.net*^popup
 ||post-gazette.com^
 ||ppcent.net/go.php$all
@@ -6177,6 +6202,7 @@ zobt-alanam-com.cdn.ampproject.org##.amp-x-div
 ||reqcdn.com/*/*.gif$image
 ||reqcdn.com/ivr*.gif # reqcdn engelleme. cdn icin gerekli.
 ||reqcdn.com/ivr/*.gif
+||reqcdn.com/whatsapp/^$all
 ||reviveservers.com^$third-party
 ||revotas.com^$third-party
 ||righilady90.files.wordpress.com^
@@ -6357,6 +6383,7 @@ zobt-alanam-com.cdn.ampproject.org##.amp-x-div
 ||videoustu.com^$third-party
 ||visilabs.com^$third-party
 ||visilabs.net^$third-party
+||vitrinlerim.xyz/vitrinApp/resimler/*.jpg$image
 ||vizyonfilmizle.tv/bet*.jpg$image
 ||vofchichive.files.wordpress.com^
 ||vofchichive.wordpress.com^
@@ -6367,6 +6394,11 @@ zobt-alanam-com.cdn.ampproject.org##.amp-x-div
 ||whatsapp-chat.xyz^
 ||whatsapp.rlink.live*^$popup
 ||whatsapp.rlink.live/*^$popup
+||whatsappdansohbet.website/$popup
+||whatsappdansohbet.website/sesli/$popup
+||whatsappdansohbet.website/sesli/?id$popup
+||whatsappdansohbet.website/sesli/?id=cXpiPWQmMk$popup
+||whatsappdansohbet.website/sesli/?id=cXpiPWQmMk^$all
 ||whatsappdansohbet.website^$all
 ||whatsappsohbet.top*^$popup
 ||whatsappsohbetet.com^
