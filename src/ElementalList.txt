@@ -128,6 +128,7 @@
 ##.hizalanmis > div[class^="box"] > .fra
 ##.hrknReklam
 ##.intbetads-FIX
+##.ivr
 ##.ivr > a > img
 ##.ivr-reklam
 ##.ivrtop
@@ -4323,6 +4324,8 @@ mrunlock.kim​##[href="/lorem2/xyy/"]
 mustafabukulmez.com##.ad-center
 n11.com##.warningAlert
 natro.com###readed_contract_row
+nbyts.online##h2.text-center
+nbyts.online##p
 nefisyemektarifleri.com###veriUyari
 onhax.in##.entry-content button
 onhaxme.com
@@ -4437,6 +4440,9 @@ solidshare.online###baslik
 solidshare.online##div.main:nth-of-type(1)
 sondakkamanset.com###cerezsorgula
 sse-pornoanne-com.cdn.ampproject.org###fnzClick
+stfly.me##.text-center
+stfly.me##.text-center > p
+stfly.me##h3
 takvim.com.tr##.relatedNewsBox
 tarifikolay.com##.personal-data-usage
 tarihiyolculuk.com##div.cookie-policy-footer
@@ -5001,6 +5007,7 @@ zobt-alanam-com.cdn.ampproject.org##.amp-x-div
 ||*yarak-banner*.gif$image
 ||*your-bestsex-here1*^$popup
 ||.adobeconnect.com/api/xml?action=login&login=*&password=*&domain=*&session=*^$popup #adobe için açılan giriş popupu
+||/*adsimg*/*.gif
 ||/*betonbet*.gif$image
 ||/*betpas*.gif$image
 ||/*makrolarge*.gif$image
@@ -5886,6 +5893,7 @@ zobt-alanam-com.cdn.ampproject.org##.amp-x-div
 ||i.hizliresim.com/2O4QNj.jpg$image
 ||i.hizliresim.com/kMRQDq.gif^$image
 ||i.ibb.co/3B5vRQ8/ezgif-com-gif-to-webp.webp$image
+||i3.wp.com/sex.*/*.gif
 ||i3.wp.com/www.gzzzn.com/wp-content/uploads/20*$image
 ||iamactivator.com/download-activated/
 ||iamactivator.com/download-new/
@@ -6031,6 +6039,7 @@ zobt-alanam-com.cdn.ampproject.org##.amp-x-div
 ||mobi-kitap-indir.info^
 ||mobil-izle.xyz*^$popup
 ||mobilhdizle.com$popup
+||mobilimg.xyz/banner/*.jpg
 ||mobilpop.com^$third-party
 ||mobilup.com^$third-party
 ||mobilure.com^$third-party
