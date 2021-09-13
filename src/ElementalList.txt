@@ -29,6 +29,7 @@
 ###head > div.adsLoad.akAds
 ###header-reklam
 ###iAlert
+###iv-bas
 ###iv-kayan
 ###ivr-bar
 ###ivrreklam
@@ -116,6 +117,7 @@
 ##.code-block.code-block > .adsbygoogle
 ##.container.footerFixedAdWrapper
 ##.detayreklam
+##.devam
 ##.dikeyreklam
 ##.flash_aciklama
 ##.fnzClick
@@ -123,14 +125,18 @@
 ##.fuck-ivr
 ##.fuck-ivr ~ p[style^="background-color:"]
 ##.hdabla-div
+##.hdr-rklm
 ##.headreklam
 ##.hide-mobile > .adsbygoogle
 ##.hizalanmis > div[class^="box"] > .fra
 ##.hrknReklam
 ##.intbetads-FIX
+##.ivi
 ##.ivr
 ##.ivr > a > img
 ##.ivr-reklam
+##.ivr-text
+##.ivrbars
 ##.ivrtop
 ##.ivrvid
 ##.kanalustureklam
@@ -210,6 +216,7 @@
 ##.sagReklam300x250
 ##.saniyereklam
 ##.side > div.adsLoad.akAds
+##.sinx
 ##.sol_reklam_160x600
 ##.splash-banner
 ##.splash-reklam
@@ -220,6 +227,7 @@
 ##.trgoolreklam
 ##.ustOrtaSolReklam
 ##.ustReklam
+##.uyari
 ##.watch_video > center > a[rel="nofollow"] > img
 ##.yediyuzads
 ##.yenireklam
@@ -316,6 +324,10 @@
 ##[href="http://cepsohbetler13.online"]
 ##[href="http://cepsohbetler13.online/"]
 ##[href="http://cepsohbetler13.online/232"]
+##[href="http://cinselperform.com"]
+##[href="http://cinselperform.com/"]
+##[href="http://cinselperform.com/h8b8_1630596224"]
+##[href="http://cinselperform.com/h8b8_1630596224/"]
 ##[href="http://cloud.1mwr.ru"]
 ##[href="http://cloud.1mwr.ru/"]
 ##[href="http://cloud.1mwr.ru/tr-TR"]
@@ -519,6 +531,8 @@
 ##[href="https://cepsohbetler13.online"]
 ##[href="https://cepsohbetler13.online/"]
 ##[href="https://cepsohbetler13.online/232"]
+##[href="https://cinselperform.com/"]
+##[href="https://cinselperform.com/h8b8_1630596224"]
 ##[href="https://cloud.1mwr.r"]
 ##[href="https://cloud.1mwr.ru"]
 ##[href="https://cloud.1mwr.ru/"]
@@ -771,15 +785,46 @@
 ##[href="tel:+0032258891"]
 ##[href="tel:+3225889110"]
 ##[href="tel://+002378000223"]
+##[href="tel://+0023780005"]
+##[href="tel://+0023780009"]
 ##[href="tel://+0023781111"]
+##[href="tel://+0023781118"]
 ##[href="tel://+0032258891"]
+##[href="tel://+0032258897"]
+##[href="tel://+0032258899"]
+##[href="tel://+003225889918"]
+##[href="tel://+003535157311"]
+##[href="tel://+00353515736"]
+##[href="tel://+00437207227"]
+##[href="tel://+00467669234"]
+##[href="tel://+3225889110"]
 ##[href="tel://002378000223"]
+##[href="tel://0023780005"]
+##[href="tel://0023780009"]
 ##[href="tel://0023781111"]
+##[href="tel://0023781118"]
 ##[href="tel://0032258891"]
+##[href="tel://0032258897"]
+##[href="tel://0032258899"]
+##[href="tel://003225889918"]
+##[href="tel://003535157311"]
+##[href="tel://00353515736"]
+##[href="tel://00437207227"]
+##[href="tel://00467669234"]
 ##[href="tel://3225889110"]
 ##[href="tel:002378000223"]
+##[href="tel:0023780005"]
+##[href="tel:0023780009"]
 ##[href="tel:0023781111"]
+##[href="tel:0023781118"]
 ##[href="tel:0032258891"]
+##[href="tel:0032258897"]
+##[href="tel:0032258899"]
+##[href="tel:003225889918"]
+##[href="tel:003535157311"]
+##[href="tel:00353515736"]
+##[href="tel:00437207227"]
+##[href="tel:00467669234"]
 ##[href="tel:3225889110"]
 ##[href="ulrh.mobilhdizle.com"]
 ##[href="ulrh.mobilhdizle.com/"]
@@ -3513,6 +3558,8 @@
 ##div > [href^="kingads.mobi/redirect/hd-buton.php"]
 ##div > center > .adsbygoogle
 ##div.adsLoad.akAds
+##div.ca-top.content-ad
+##div.ivrvid
 ##div.koddostu-splash.reklam-s-koddostu#amans
 ##div.sugo:nth-of-type(16) > .adsLoad.akAds
 ##div.top5.z-indx.col-xs-12:nth-of-type(1) > .ara-banner
@@ -5153,6 +5200,7 @@ zobt-alanam-com.cdn.ampproject.org##.amp-x-div
 ||alyzeglascott.files.wordpress.com^
 ||alyzeglascott.wordpress.com^
 ||amazonaws.com/ad-maven-public-cdn/$third-party
+||ampproject.org/ii/*/maheir.*/wp-content/uploads/*/*.gif
 ||ana.7dakcdn.com/banner.php$document
 ||anchor.fm/kimainign*^$popup
 ||ancient-egypt.ru^
@@ -5299,6 +5347,7 @@ zobt-alanam-com.cdn.ampproject.org##.amp-x-div
 ||cdn.advg.agency/static/offer/*/banners/*/*.jpeg$image
 ||cdn.advg.agency/static/offer/*/banners/*/*.jpg$image
 ||cdn.ahbul.com/wp-content/themes/ahbul/images/loading-bert.gif$image
+||cdn.ampproject.org/i*/s/sex*.*/*/*.jpg
 ||cdn.hiperadverts.com^
 ||cdn.klasseo.com^$third-party
 ||cdn.marjmedya.com^
@@ -5893,6 +5942,7 @@ zobt-alanam-com.cdn.ampproject.org##.amp-x-div
 ||i.hizliresim.com/2O4QNj.jpg$image
 ||i.hizliresim.com/kMRQDq.gif^$image
 ||i.ibb.co/3B5vRQ8/ezgif-com-gif-to-webp.webp$image
+||i3.wp.com/sex*.*/*.gif
 ||i3.wp.com/sex.*/*.gif
 ||i3.wp.com/www.gzzzn.com/wp-content/uploads/20*$image
 ||iamactivator.com/download-activated/
