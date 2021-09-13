@@ -3538,7 +3538,6 @@
 127.0.0.1 s.adklik.com.tr
 127.0.0.1 s.adroll.com
 127.0.0.1 s.amazon-adsystem.com
-127.0.0.1 s.click.aliexpress.com
 127.0.0.1 s.cpx.to
 127.0.0.1 s.dogannet.tv
 127.0.0.1 s.pubmine.com
@@ -7836,7 +7835,6 @@
 127.0.0.1 www.s.adklik.com.tr
 127.0.0.1 www.s.adroll.com
 127.0.0.1 www.s.amazon-adsystem.com
-127.0.0.1 www.s.click.aliexpress.com
 127.0.0.1 www.s.cpx.to
 127.0.0.1 www.s.dogannet.tv
 127.0.0.1 www.s.pubmine.com
