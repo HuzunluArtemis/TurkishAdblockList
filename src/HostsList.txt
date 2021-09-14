@@ -23,6 +23,8 @@
 127.0.0.1 clbanners3.com
 127.0.0.1 www.clbanners3.com
 127.0.0.1 0n.click
+127.0.0.1 alfagen.shop
+127.0.0.1 www.alfagen.shop
 127.0.0.1 1.black-snake-oil.info
 127.0.0.1 1.bmon.site
 127.0.0.1 109.73.75.29
