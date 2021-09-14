@@ -25,7 +25,7 @@ https://raw.githubusercontent.com/huzunluartemis/TurkishAdblockList/main/src/Ele
 - Ayrıca eklemenizi tavsiye ettiğim listeler:
 
 ```
-https://raw.githubusercontent.com/bogachenko/fuckfuckadblock/master/fuckfuckadblock.txt
+https://raw.githubusercontent.com/rampageX/fuckfuckadblock/master/my_antiadblock_selection.txt
 https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser
 ```
 
