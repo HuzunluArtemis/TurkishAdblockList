@@ -6132,6 +6132,7 @@ zobt-alanam-com.cdn.ampproject.org##.amp-x-div
 ||notification-list.com*^$popup
 ||now.loading-wsite.com*^$popup
 ||noxaffiliates.com^$third-party
+||pdfkitaparsiv.com^$popup
 ||nqhitsyverse.files.wordpress.com^
 ||nqhitsyverse.wordpress.com^
 ||numarabiz.com/scr^$third-party
