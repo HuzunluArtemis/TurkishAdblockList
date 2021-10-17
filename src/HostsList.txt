@@ -12,6 +12,9 @@
 ::1  localhost
 
 ! huzunluartemis/TurkishAdblockList başla
+127.0.0.1 ww25.fîlm.xyz
+127.0.0.1 www.fîlm.xyz
+127.0.0.1 fîlm.xyz
 127.0.0.1 legallunchspread.top
 127.0.0.1 www.legallunchspread.top
 127.0.0.1 05bursa-escortsc-com.cdn.ampproject.org
@@ -4151,7 +4154,6 @@
 127.0.0.1 urielshy2000.files.wordpress.com
 127.0.0.1 urielshy2000.wordpress.com
 127.0.0.1 us.xmlppcbuzz.com
-127.0.0.1 usabilla.com
 127.0.0.1 uscsigorta.com
 127.0.0.1 usd.raginhard-sva.com
 127.0.0.1 use.bravo-dog.com
@@ -8434,7 +8436,6 @@
 127.0.0.1 www.urielshy2000.files.wordpress.com
 127.0.0.1 www.urielshy2000.wordpress.com
 127.0.0.1 www.us.xmlppcbuzz.com
-127.0.0.1 www.usabilla.com
 127.0.0.1 www.uscsigorta.com
 127.0.0.1 www.usd.raginhard-sva.com
 127.0.0.1 www.use.bravo-dog.com

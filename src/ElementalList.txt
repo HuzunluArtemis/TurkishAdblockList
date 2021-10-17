@@ -4608,6 +4608,11 @@ www.comss.ru##div > .adsbygoogle
 www.datarecovery.institute##.absolute-imgx
 www.datarecovery.institute##.hover.absolute-imgi
 www.datarecovery.institute##[href="https://quickcoupondeals.com/dealstore/systools-group/"]
+ernestne.info##.main > .holder > p
+||blastcahs.com^$popup
+||bemachopor.com^$popup
+@@||kaylees.info/wp-content/themes/*/*/css/images/1pixel.gif$image
+@@||aerodinamik.info/wp-content/themes/*/*/css/images/1pixel.gif$image
 www.dellam.info##.ivr > p
 www.doeda.com###video > center
 www.doldur.info###v-player > p
