@@ -12,6 +12,8 @@
 ::1  localhost
 
 ! huzunluartemis/TurkishAdblockList başla
+127.0.0.1 istanbulanadoluyakasiescort.com
+127.0.0.1 www.istanbulanadoluyakasiescort.com
 127.0.0.1 ww25.fîlm.xyz
 127.0.0.1 www.fîlm.xyz
 127.0.0.1 fîlm.xyz
