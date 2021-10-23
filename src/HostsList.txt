@@ -1278,6 +1278,7 @@
 127.0.0.1 cinarlastik.com.tr
 127.0.0.1 cinealanya.com
 127.0.0.1 cinerreklam.com.tr
+127.0.0.1 cinglecitrals.com
 127.0.0.1 cinselperform.com
 127.0.0.1 cipjtpg.cf
 127.0.0.1 cipjtpg.ga
@@ -1384,6 +1385,7 @@
 127.0.0.1 ctphc.com
 127.0.0.1 ctteknik.com.tr
 127.0.0.1 cubilupe.tk
+127.0.0.1 cultergoy.com
 127.0.0.1 cuneytugur.com.tr
 127.0.0.1 cusfcsf.cf
 127.0.0.1 cusfcsf.ga
@@ -1818,6 +1820,7 @@
 127.0.0.1 free.classicgift.download
 127.0.0.1 freegeoip.net
 127.0.0.1 freemacware.com
+127.0.0.1 freevpn.win
 127.0.0.1 friennity.com
 127.0.0.1 fsuseaad1.blob.core.windows.net
 127.0.0.1 fula.com.tr
@@ -2110,6 +2113,7 @@
 127.0.0.1 hwn500.de
 127.0.0.1 hxuasnwokh.com
 127.0.0.1 hygienix.com.tr
+127.0.0.1 hypogeeinial.com
 127.0.0.1 hyprshr.com
 127.0.0.1 i-tmgrup-com-tr.cdn.ampproject.org
 127.0.0.1 i.kissmetrics.com
@@ -2802,6 +2806,7 @@
 127.0.0.1 miplus.com.tr
 127.0.0.1 mircindir.net
 127.0.0.1 mirzalar.com.tr
+127.0.0.1 misdealcpi.com
 127.0.0.1 mismeejecda1980.files.wordpress.com
 127.0.0.1 mismeejecda1980.wordpress.com
 127.0.0.1 misslk.com
@@ -3349,8 +3354,6 @@
 127.0.0.1 ponylo.freesite.host
 127.0.0.1 popads.net
 127.0.0.1 popcash.net
-127.0.0.1 popcent.net
-127.0.0.1 popcent.org
 127.0.0.1 popmarker.com
 127.0.0.1 popmyads.com
 127.0.0.1 poprtb.pro
@@ -3609,6 +3612,7 @@
 127.0.0.1 rotumal.com
 127.0.0.1 router.infolinks.com
 127.0.0.1 royceescorts.com.au
+127.0.0.1 rozumotterer.com
 127.0.0.1 rp.yefeneri2.com
 127.0.0.1 rpc.tapjoy.com
 127.0.0.1 rqsndrkezz.com
@@ -3634,6 +3638,7 @@
 127.0.0.1 rugipis.com
 127.0.0.1 rukomos.ru
 127.0.0.1 runative-syndicate.com
+127.0.0.1 runnyamowt.com
 127.0.0.1 ruspornohub.com
 127.0.0.1 rvminfochat.files.wordpress.com
 127.0.0.1 rvminfochat.wordpress.com
@@ -4029,6 +4034,7 @@
 127.0.0.1 tarimaslara.com
 127.0.0.1 tasdanlar.com.tr
 127.0.0.1 tasdanyapi.com.tr
+127.0.0.1 teatsiatomia.com
 127.0.0.1 tecnocoffee.com.tr
 127.0.0.1 teenomania.com
 127.0.0.1 tekirdagagirnakliyat.com
@@ -5718,6 +5724,7 @@
 127.0.0.1 www.cinarlastik.com.tr
 127.0.0.1 www.cinealanya.com
 127.0.0.1 www.cinerreklam.com.tr
+127.0.0.1 www.cinglecitrals.com
 127.0.0.1 www.cinselperform.com
 127.0.0.1 www.cipjtpg.cf
 127.0.0.1 www.cipjtpg.ga
@@ -5823,6 +5830,7 @@
 127.0.0.1 www.ctphc.com
 127.0.0.1 www.ctteknik.com.tr
 127.0.0.1 www.cubilupe.tk
+127.0.0.1 www.cultergoy.com
 127.0.0.1 www.cuneytugur.com.tr
 127.0.0.1 www.cusfcsf.cf
 127.0.0.1 www.cusfcsf.ga
@@ -6254,6 +6262,7 @@
 127.0.0.1 www.free.classicgift.download
 127.0.0.1 www.freegeoip.net
 127.0.0.1 www.freemacware.com
+127.0.0.1 www.freevpn.win
 127.0.0.1 www.friennity.com
 127.0.0.1 www.fsuseaad1.blob.core.windows.net
 127.0.0.1 www.fula.com.tr
@@ -6543,6 +6552,7 @@
 127.0.0.1 www.hwn500.de
 127.0.0.1 www.hxuasnwokh.com
 127.0.0.1 www.hygienix.com.tr
+127.0.0.1 www.hypogeeinial.com
 127.0.0.1 www.hyprshr.com
 127.0.0.1 www.i-tmgrup-com-tr.cdn.ampproject.org
 127.0.0.1 www.i.kissmetrics.com
@@ -7235,6 +7245,7 @@
 127.0.0.1 www.miplus.com.tr
 127.0.0.1 www.mircindir.net
 127.0.0.1 www.mirzalar.com.tr
+127.0.0.1 www.misdealcpi.com
 127.0.0.1 www.mismeejecda1980.files.wordpress.com
 127.0.0.1 www.mismeejecda1980.wordpress.com
 127.0.0.1 www.misslk.com
@@ -7778,8 +7789,6 @@
 127.0.0.1 www.ponylo.freesite.host
 127.0.0.1 www.popads.net
 127.0.0.1 www.popcash.net
-127.0.0.1 www.popcent.net
-127.0.0.1 www.popcent.org
 127.0.0.1 www.popmarker.com
 127.0.0.1 www.popmyads.com
 127.0.0.1 www.poprtb.pro
@@ -8038,6 +8047,7 @@
 127.0.0.1 www.rotumal.com
 127.0.0.1 www.router.infolinks.com
 127.0.0.1 www.royceescorts.com.au
+127.0.0.1 www.rozumotterer.com
 127.0.0.1 www.rp.yefeneri2.com
 127.0.0.1 www.rpc.tapjoy.com
 127.0.0.1 www.rqsndrkezz.com
@@ -8063,6 +8073,7 @@
 127.0.0.1 www.rugipis.com
 127.0.0.1 www.rukomos.ru
 127.0.0.1 www.runative-syndicate.com
+127.0.0.1 www.runnyamowt.com
 127.0.0.1 www.ruspornohub.com
 127.0.0.1 www.rvminfochat.files.wordpress.com
 127.0.0.1 www.rvminfochat.wordpress.com
@@ -8451,6 +8462,7 @@
 127.0.0.1 www.tarimaslara.com
 127.0.0.1 www.tasdanlar.com.tr
 127.0.0.1 www.tasdanyapi.com.tr
+127.0.0.1 www.teatsiatomia.com
 127.0.0.1 www.tecnocoffee.com.tr
 127.0.0.1 www.teenomania.com
 127.0.0.1 www.tekirdagagirnakliyat.com

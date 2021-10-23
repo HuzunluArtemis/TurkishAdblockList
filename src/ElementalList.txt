@@ -4768,6 +4768,7 @@
 *pskinlord*^$image
 /*/*/wp-content/uploads/*/*vardh*.gif
 /*/*/wp-content/uploads/*/*yenivideoalt*.gif
+/^https:\/\/[-a-z]{12,}\.life\/\?u=[0-9a-z]+&o=/$document,domain=life
 /reklam/*$domain=~reklam.com.tr
 /wp-content/plugins/adunblocker
 /wp-content/plugins/eazy-ad-unblocker/*
@@ -4799,6 +4800,7 @@
 @@||pornoizleturk.org/wp-content/*/css/images/1pixel.gif$image
 @@||s1.filmmodu.org/uploads/movie/*
 @@||s1.filmmodu.org/uploads/user/*
+@@||tgstat.com/js/$script
 @@||zebotv.online/*devtools-detector.$~document #izin ver
 a2tv.com.tr,atv.com.tr,dr.com.tr,europages.com.tr,haber7.com,lacivertdergi.com,otohaber.com.tr,sabah.com.tr,teknokulis.com##.social
 abcfilmizle.com##.body-clickable
@@ -5535,6 +5537,10 @@ redirect.us##div.vegas-transition-fade-out.vegas-transition-fade-in.vegas-transi
 redirect.us##div.vegas-transition-fade.vegas-slide:nth-of-type(5)
 remixfm.net##.banner-inner > .adsbygoogle
 remixfm.net##center > .adsbygoogle
+rentry.co###best-onlyfans-telegram
+rentry.co###best-tiktok-thots-packs
+rentry.co###biggest-onlyfans-patreaon-pack
+rentry.co###to-enjoy-best-onlyfans-packs-join
 repertuarim.com##.cookie
 rlink.live##.clearfix.profiles-listing
 rlink.live##.site-wrap
@@ -5600,6 +5606,8 @@ tarifikolay.com##.personal-data-usage
 tarihiyolculuk.com##div.cookie-policy-footer
 telegramchannels.me###btm-pr
 telegramchannels.me​###pr-a
+telegramkanalbul.com##.i-amphtml-layout.i-amphtml-built.i-amphtml-slidescroll.i-amphtml-carousel-has-controls.i-amphtml-layout-size-defined.i-amphtml-layout-fixed-height.i-amphtml-element.image
+telegramkanalbul.com##.swal2-shown.swal2-fade.swal2-center.swal2-container
 theforex24.com^$popup
 thepiratecity.net##blockquote
 tiko-hdabla-net.cdn.ampproject.org###uyari
@@ -6526,6 +6534,7 @@ zobt-alanam-com.cdn.ampproject.org##.amp-x-div
 ||chipola.ru^
 ||cibgoldmason.files.wordpress.com^
 ||cibgoldmason.wordpress.com^
+||cinglecitrals.com^$popup
 ||citireklam.com^$third-party
 ||ckacogikeep.files.wordpress.com^
 ||ckacogikeep.wordpress.com^
@@ -6547,6 +6556,7 @@ zobt-alanam-com.cdn.ampproject.org##.amp-x-div
 ||copelandgain1985.wordpress.com^
 ||cpatrendreklam.com^$third-party
 ||ctru.net/adv_hash
+||cultergoy.com^$popup
 ||cyznetblogger.files.wordpress.com^
 ||cyznetblogger.wordpress.com^
 ||d.findyourpleasure1.life/^$popup
@@ -6700,6 +6710,7 @@ zobt-alanam-com.cdn.ampproject.org##.amp-x-div
 ||fotos-paisajes.net ^
 ||franecki.net^$third-party
 ||freemacware.com
+||freevpn.win^$popup
 ||frknseo.info^$third-party
 ||fuckerz-evooli-com.cdn.ampproject.org/i*/s/*.*.*/wp-content/uploads/fp-hori.gif$image
 ||fuckerz-evooli-com.cdn.ampproject.org/i*/s/*.*.*/wp-content/uploads/ivr*hot*.gif$image
@@ -7116,6 +7127,7 @@ zobt-alanam-com.cdn.ampproject.org##.amp-x-div
 ||humayraberchielli87.files.wordpress.com^
 ||humayraberchielli87.wordpress.com^
 ||hwn500.de^
+||hypogeeinial.com^$popup
 ||hyprshr.com^$third-party
 ||i.findyourpleasure1.life/^$popup
 ||i.findyourpleasure1.life^$popup
@@ -7291,6 +7303,7 @@ zobt-alanam-com.cdn.ampproject.org##.amp-x-div
 ||mfkcogibunk.wordpress.com^
 ||minireklam.com^$third-party
 ||minyontv.com/porno-izle.jpg$image
+||misdealcpi.com^$popup
 ||mismeejecda1980.files.wordpress.com^
 ||mismeejecda1980.wordpress.com^
 ||mkazanc.com^$third-party
@@ -7414,8 +7427,6 @@ zobt-alanam-com.cdn.ampproject.org##.amp-x-div
 ||plsppushme.com*^$popup
 ||pmelon.com^$third-party
 ||ponylo.freesite.host^
-||popcent.net*^$popup
-||popcent.org*^$popup
 ||popmobil.info/git.php^$all
 ||pornfilmsex.com/*.gif$image
 ||porno-izle-sikis.pw^$popup
@@ -7510,8 +7521,10 @@ zobt-alanam-com.cdn.ampproject.org##.amp-x-div
 ||romvs.com/images/romvs.png$image
 ||rothburyfoodandcraftfestival.co.uk^
 ||rotumal.com*^$popup
+||rozumotterer.com^$popup
 ||rsalcdp.com^$document
 ||rublacklist.net/images/rutracker_image.png$image
+||runnyamowt.com^$popup
 ||rutrk.org/iframe/kwork-1.html$subdocument
 ||rvminfochat.files.wordpress.com^
 ||rvminfochat.wordpress.com^
@@ -7621,6 +7634,7 @@ zobt-alanam-com.cdn.ampproject.org##.amp-x-div
 ||tarahjirooke.files.wordpress.com^
 ||tarahjirooke.wordpress.com^
 ||taxsi.net/kategori/brazzers-porno/*^$popup
+||teatsiatomia.com^$popup
 ||technopat*/wp-content/uploads/*/*/*technopat*siteskin*.jpg$image
 ||tekirdagagirnakliyat.com^$popup
 ||tekirdaghbr.com^$popup
@@ -7628,6 +7642,7 @@ zobt-alanam-com.cdn.ampproject.org##.amp-x-div
 ||telegramchannels.me/gopr/75/^$popup
 ||telegramchannels.me/gopr/75^$popup
 ||telegramchannels.me/storage/prs/*.png$image
+||telegramgruplari.net/wp-content/uploads/*.gif$image
 ||telreh.com*^$popup
 ||tempobanners.com^$third-party
 ||theadx.com^$third-party
@@ -7667,6 +7682,7 @@ zobt-alanam-com.cdn.ampproject.org##.amp-x-div
 ||tylerjamesborbon.wordpress.com^
 ||tylunvernia1991.files.wordpress.com^
 ||tylunvernia1991.wordpress.com^
+||ucarecdn.com/*/banner*.png$image
 ||ucbetting.com*^$popup
 ||ucosi.com/images/load.png$image
 ||ucosi.com/images/ucosi.png$image
