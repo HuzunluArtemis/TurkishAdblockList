@@ -9,6 +9,33 @@
 ! Copyright 2021 huzunluartemis
 
 ! huzunluartemis/TurkishAdblockList başla
+##[href*="https://kitappdfinndir.com/pdf-kitap-indir-yandex/"]
+##[href="http://bc.vc/2pkwqHu"]
+##[href="http://bc.vc/JsRrzrD"]
+##[href="https://ay.link/XaF61"]
+##[href="https://ay.live/H8Ooc"]
+##[href="https://bit.ly/kackgelir"]
+##[href^="http://bc.vc/296370/"]
+##[href^="https://kitabipdfindir.com/"]
+##[href^="https://kitappdfinndir.com/pdf-kitap-indir-yandex/"]
+##[href^="https://linkkisalt.life"]
+##[href^="https://www.kitabipdfindir.com/"]
+##[href^="https://www.kitappdfinndir.com/pdf-kitap-indir-yandex/"]
+ams-eviewporn-com.cdn.ampproject.org##.i-amphtml-scrollable-carousel-container
+blogspot.com##[href="http://www.e-kitap-rehberi.blogspot.com"]
+blogspot.com##[href="https://hizlionay.net"]
+cdn.ampproject.org###site-popup-ads
+e-kitapdunyam.blogspot.com##.linktl_flashad_wrap.linktl_flashad_reset
+eviewporn.com##.i-amphtml-scrollable-carousel-container
+https://nasil.co/indir/54124B
+##[href^="https://nasil.co/indir/54124B"]
+https://rosefile.net/3hjhhehlgb/Guncellenmis-PDF-dosyasi.PDF.rar.html
+notpdfokuindir.com##p
+##[href="https://ihob.net/ho9ux"]
+##[href="https://ihob.net/yNAOucAH"]
+##[href="https://urlkisalt.co/qNmH8"] #ekle hosta
+##[href^="https://urlkisalt.co/pdfindir.net"]
+||foomenta.xyz/player*resim*.jpg$image
 ###adContentWrapper
 ###adv-link
 ###alt_kayan_reklam
