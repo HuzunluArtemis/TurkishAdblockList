@@ -875,6 +875,7 @@
 127.0.0.1 beauty-op-istanbul.de
 127.0.0.1 beckmann.com.tr
 127.0.0.1 becsystem.com.tr
+127.0.0.1 bedavapdfdunyasi.com
 127.0.0.1 bedavapdfkitap.com
 127.0.0.1 bedavayuz.com
 127.0.0.1 beelert.com
@@ -925,6 +926,7 @@
 127.0.0.1 betpot5.com
 127.0.0.1 betticket.biz
 127.0.0.1 betticket87.com
+127.0.0.1 bettilt132.com
 127.0.0.1 bettilt533.com
 127.0.0.1 bettingflow.com
 127.0.0.1 bettingselection.com
@@ -1027,11 +1029,13 @@
 127.0.0.1 bodrumpersonel.com
 127.0.0.1 bodrumtranslationoffice.com
 127.0.0.1 bogaziciturizm.com.tr
+127.0.0.1 boguchwala24.pl
 127.0.0.1 boluhijyen.com
 127.0.0.1 boluihl86.com
 127.0.0.1 bolumutluturizm.com
 127.0.0.1 bookfinder.top
 127.0.0.1 booklook.site
+127.0.0.1 books-now.com
 127.0.0.1 booksandtoys.com.tr
 127.0.0.1 booksfer.com
 127.0.0.1 booksurfers.co.uk
@@ -1261,6 +1265,7 @@
 127.0.0.1 chartbeat.com
 127.0.0.1 chat.videoresim.website
 127.0.0.1 cheapcialisnow.net
+127.0.0.1 check-best-profit.life
 127.0.0.1 cheprihel.host
 127.0.0.1 chipola.ru
 127.0.0.1 chnghl.space
@@ -2080,6 +2085,7 @@
 127.0.0.1 hkmicsy.gq
 127.0.0.1 hkmicsy.ml
 127.0.0.1 hkmicsy.tk
+127.0.0.1 hl.books-now.com
 127.0.0.1 hmo.com.tr
 127.0.0.1 hogwats.com
 127.0.0.1 holawaskinta.info
@@ -3661,6 +3667,7 @@
 127.0.0.1 rudy.adsnative.com
 127.0.0.1 rugipis.com
 127.0.0.1 rukomos.ru
+127.0.0.1 rulet.boguchwala24.pl
 127.0.0.1 rulet.emocoaching.es
 127.0.0.1 runative-syndicate.com
 127.0.0.1 runnyamowt.com
@@ -5363,6 +5370,7 @@
 127.0.0.1 www.beauty-op-istanbul.de
 127.0.0.1 www.beckmann.com.tr
 127.0.0.1 www.becsystem.com.tr
+127.0.0.1 www.bedavapdfdunyasi.com
 127.0.0.1 www.bedavapdfkitap.com
 127.0.0.1 www.bedavayuz.com
 127.0.0.1 www.beelert.com
@@ -5413,6 +5421,7 @@
 127.0.0.1 www.betpot5.com
 127.0.0.1 www.betticket.biz
 127.0.0.1 www.betticket87.com
+127.0.0.1 www.bettilt132.com
 127.0.0.1 www.bettilt533.com
 127.0.0.1 www.bettingflow.com
 127.0.0.1 www.bettingselection.com
@@ -5515,11 +5524,13 @@
 127.0.0.1 www.bodrumpersonel.com
 127.0.0.1 www.bodrumtranslationoffice.com
 127.0.0.1 www.bogaziciturizm.com.tr
+127.0.0.1 www.boguchwala24.pl
 127.0.0.1 www.boluhijyen.com
 127.0.0.1 www.boluihl86.com
 127.0.0.1 www.bolumutluturizm.com
 127.0.0.1 www.bookfinder.top
 127.0.0.1 www.booklook.site
+127.0.0.1 www.books-now.com
 127.0.0.1 www.booksandtoys.com.tr
 127.0.0.1 www.booksfer.com
 127.0.0.1 www.booksurfers.co.uk
@@ -5749,6 +5760,7 @@
 127.0.0.1 www.chartbeat.com
 127.0.0.1 www.chat.videoresim.website
 127.0.0.1 www.cheapcialisnow.net
+127.0.0.1 www.check-best-profit.life
 127.0.0.1 www.cheprihel.host
 127.0.0.1 www.chipola.ru
 127.0.0.1 www.chnghl.space
@@ -6568,6 +6580,7 @@
 127.0.0.1 www.hkmicsy.gq
 127.0.0.1 www.hkmicsy.ml
 127.0.0.1 www.hkmicsy.tk
+127.0.0.1 www.hl.books-now.com
 127.0.0.1 www.hmo.com.tr
 127.0.0.1 www.hogwats.com
 127.0.0.1 www.holawaskinta.info
@@ -8149,6 +8162,7 @@
 127.0.0.1 www.rudy.adsnative.com
 127.0.0.1 www.rugipis.com
 127.0.0.1 www.rukomos.ru
+127.0.0.1 www.rulet.boguchwala24.pl
 127.0.0.1 www.rulet.emocoaching.es
 127.0.0.1 www.runative-syndicate.com
 127.0.0.1 www.runnyamowt.com

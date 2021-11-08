@@ -155,6 +155,7 @@
 ##.ivi
 ##.ivr
 ##.ivr > a > img
+##.ivr-div
 ##.ivr-reklam
 ##.ivr-text
 ##.ivrbars
@@ -1447,6 +1448,7 @@
 ##[href="https://sivastina2006.com"]
 ##[href="https://sivastina2006.com/"]
 ##[href="https://sohbetbiz1.club/gbxb/ksaxz"]
+##[href="https://t.me/pornopremiumkanal"]
 ##[href="https://talya07.xyz"]
 ##[href="https://talya07.xyz/"]
 ##[href="https://tanisma.supermesaj.tv/"]
@@ -1896,6 +1898,7 @@
 ##[href="tel:+002378000131"]
 ##[href="tel:+002378000223"]
 ##[href="tel:+0023781111"]
+##[href="tel:+002378111109"]
 ##[href="tel:+0032258891"]
 ##[href="tel:+3225889110"]
 ##[href="tel://+002378000131"]
@@ -1903,6 +1906,7 @@
 ##[href="tel://+0023780005"]
 ##[href="tel://+0023780009"]
 ##[href="tel://+0023781111"]
+##[href="tel://+002378111109"]
 ##[href="tel://+0023781118"]
 ##[href="tel://+0032258891"]
 ##[href="tel://+0032258897"]
@@ -1918,6 +1922,7 @@
 ##[href="tel://0023780005"]
 ##[href="tel://0023780009"]
 ##[href="tel://0023781111"]
+##[href="tel://002378111109"]
 ##[href="tel://0023781118"]
 ##[href="tel://0032258891"]
 ##[href="tel://0032258897"]
@@ -1933,8 +1938,10 @@
 ##[href="tel:0023780005"]
 ##[href="tel:0023780009"]
 ##[href="tel:0023781111"]
+##[href="tel:002378111109"]
 ##[href="tel:0023781118"]
 ##[href="tel:0032258891"]
+##[href="tel:003225889211"]
 ##[href="tel:0032258897"]
 ##[href="tel:0032258899"]
 ##[href="tel:003225889918"]
@@ -2343,11 +2350,15 @@
 ##[href^="http://bc.vc/296370/"]
 ##[href^="http://bc.vc/jAf6Eh4"]
 ##[href^="http://bc.vc/WRrYdnR"]
+##[href^="http://bedavapdfdunyasi.com"]
+##[href^="http://bedavapdfdunyasi.com/"]
 ##[href^="http://bestdataresu1ts.com"]
 ##[href^="http://bestdataresu1ts.com/mmd/"]
 ##[href^="http://betlesene.com/"]
 ##[href^="http://betonbet1.com"]
 ##[href^="http://betticket.biz"]
+##[href^="http://bettilt132.com"]
+##[href^="http://bettilt132.com/"]
 ##[href^="http://beylikduzuelitescort.com"]
 ##[href^="http://bgel.ncmfck.com"]
 ##[href^="http://bgel.ncmfck.com/"]
@@ -2398,6 +2409,10 @@
 ##[href^="http://blacksnakeoil.com/phub"]
 ##[href^="http://blacksnakeoil.com/phub/"]
 ##[href^="http://blok.link"]
+##[href^="http://boguchwala24.pl"]
+##[href^="http://boguchwala24.pl/"]
+##[href^="http://books-now.com"]
+##[href^="http://books-now.com/"]
 ##[href^="http://booksurfers.co.uk"]
 ##[href^="http://booksurfers.co.uk/"]
 ##[href^="http://buywanted.com"]
@@ -2406,6 +2421,8 @@
 ##[href^="http://c.findyourpleasure1.life/"]
 ##[href^="http://canlialem.com"]
 ##[href^="http://canlialem.com/"]
+##[href^="http://check-best-profit.life"]
+##[href^="http://check-best-profit.life/"]
 ##[href^="http://clbanners1.com/"]
 ##[href^="http://commissionwall1.com"]
 ##[href^="http://d.findyourpleasure1.life"]
@@ -2580,6 +2597,8 @@
 ##[href^="http://roketmail.co/partner/"]
 ##[href^="http://rotabetlink.com"]
 ##[href^="http://rotatemediajoin.win"]
+##[href^="http://rulet.boguchwala24.pl"]
+##[href^="http://rulet.boguchwala24.pl/"]
 ##[href^="http://saskatoon.ca"]
 ##[href^="http://seksturkey.com/whatsapp/"]
 ##[href^="http://seksturkey.com/yakindaki/"]
@@ -2598,6 +2617,8 @@
 ##[href^="http://siracasino.com"]
 ##[href^="http://site-2298918-9622-3459.mystrikingly.com"]
 ##[href^="http://site-istanbulsr-com.cdn.ampproject.org/c/site.istanbulsr.com/amp/istanbul/sisli-escort/"]
+##[href^="http://sites.google.com/a/hl.books-now.com"]
+##[href^="http://sites.google.com/a/hl.books-now.com/"]
 ##[href^="http://sitfathatronve.pro"]
 ##[href^="http://smart.topupload.ru/"]
 ##[href^="http://softob.com"]
@@ -2667,6 +2688,7 @@
 ##[href^="http://ultrabet120.com/#/"]
 ##[href^="http://upandshare.nocoshop.ru/"]
 ##[href^="http://verzekeringenvandermeulen.be"]
+##[href^="http://vesajel.com/"]
 ##[href^="http://viopytisri.over-blog.com"]
 ##[href^="http://vvappsohbeti.site/"]
 ##[href^="http://vvappsohbeti.site/sesli"]
@@ -3019,11 +3041,15 @@
 ##[href^="https://baysansliortaklik.com/click.php"]
 ##[href^="https://bc.vc/jAf6Eh4"]
 ##[href^="https://bc.vc/WRrYdnR"]
+##[href^="https://bedavapdfdunyasi.com"]
+##[href^="https://bedavapdfdunyasi.com/"]
 ##[href^="https://bestdataresu1ts.com"]
 ##[href^="https://bestdataresu1ts.com/mmd/"]
 ##[href^="https://betlesene.com/"]
 ##[href^="https://betonbet1.com"]
 ##[href^="https://betticket.biz"]
+##[href^="https://bettilt132.com"]
+##[href^="https://bettilt132.com/"]
 ##[href^="https://beylikduzuelitescort.com"]
 ##[href^="https://bgel.ncmfck.com"]
 ##[href^="https://bgel.ncmfck.com/"]
@@ -3093,6 +3119,10 @@
 ##[href^="https://blacksnakeoil.com/phub"]
 ##[href^="https://blacksnakeoil.com/phub/"]
 ##[href^="https://blok.link"]
+##[href^="https://boguchwala24.pl"]
+##[href^="https://boguchwala24.pl/"]
+##[href^="https://books-now.com"]
+##[href^="https://books-now.com/"]
 ##[href^="https://booksurfers.co.uk"]
 ##[href^="https://booksurfers.co.uk/"]
 ##[href^="https://buywanted.com"]
@@ -3101,6 +3131,8 @@
 ##[href^="https://c.findyourpleasure1.life/"]
 ##[href^="https://canlialem.com"]
 ##[href^="https://canlialem.com/"]
+##[href^="https://check-best-profit.life"]
+##[href^="https://check-best-profit.life/"]
 ##[href^="https://clbanners1.com/"]
 ##[href^="https://commissionwall1.com"]
 ##[href^="https://commissionwall1.com/"]
@@ -3312,6 +3344,8 @@
 ##[href^="https://rotabetlink.com/yd-va/"]
 ##[href^="https://rotatemediajoin.win"]
 ##[href^="https://rotatemediajoin.win/"]
+##[href^="https://rulet.boguchwala24.pl"]
+##[href^="https://rulet.boguchwala24.pl/"]
 ##[href^="https://saskatoon.ca"]
 ##[href^="https://seksturkey.com/whatsapp/"]
 ##[href^="https://seksturkey.com/yakindaki/"]
@@ -3331,6 +3365,8 @@
 ##[href^="https://siracasino.com/"]
 ##[href^="https://site-2298918-9622-3459.mystrikingly.com"]
 ##[href^="https://site-istanbulsr-com.cdn.ampproject.org/c/site.istanbulsr.com/amp/istanbul/sisli-escort/"]
+##[href^="https://sites.google.com/a/hl.books-now.com"]
+##[href^="https://sites.google.com/a/hl.books-now.com/"]
 ##[href^="https://sitfathatronve.pro"]
 ##[href^="https://sitfathatronve.pro/"]
 ##[href^="https://smart.topupload.ru/"]
@@ -3411,6 +3447,7 @@
 ##[href^="https://upandshare.nocoshop.ru/"]
 ##[href^="https://urlkisalt.co/pdfindir.net"]
 ##[href^="https://verzekeringenvandermeulen.be"]
+##[href^="https://vesajel.com/"]
 ##[href^="https://viopytisri.over-blog.com"]
 ##[href^="https://vvappsohbeti.site/"]
 ##[href^="https://vvappsohbeti.site/sesli"]
@@ -5379,6 +5416,7 @@ ampproject.org###fnzClick
 ampproject.org###header-reklam
 ampproject.org###iOssi
 ampproject.org##.fnzClick
+ampproject.org##.ivr-div
 ampproject.org##.jrek
 ampproject.org*porn*yuklen*.gif^$image
 ams-eviewporn-com.cdn.ampproject.org##.i-amphtml-scrollable-carousel-container
@@ -5551,7 +5589,6 @@ cdn.ampproject.org##.i-amphtml-layout.i-amphtml-element.i-amphtml-layout-size-de
 cdn.ampproject.org##.maheir-div
 cdn.ampproject.org##.reklamorta
 cdn.ampproject.org##.sgl.sp > .ivr-img
-cdn.ampproject.org##center
 cdn.ampproject.org##div.top5.z-indx.col-xs-12:nth-of-type(1) > .ara-banner
 cdn.ampproject.org##div.top5.z-indx.col-xs-12:nth-of-type(10) > .ara-banner
 cdn.ampproject.org##div.top5.z-indx.col-xs-12:nth-of-type(11) > .ara-banner
@@ -6373,6 +6410,7 @@ tarifikolay.com##.personal-data-usage
 tarihiyolculuk.com##div.cookie-policy-footer
 techno-labs.com##[height="100"][width="738"]
 techno-labs.com##td[width="738"]
+technopat.net##div.b-container-ad.b-container
 teknomobil.org##.banner_box
 teknomobil.org##a[href^="http://www.kralprogram.net/git/"]
 telegramchannels.me###btm-pr
@@ -6462,6 +6500,7 @@ ulusal.com.tr##div.text-center.my-2:nth-of-type(4) > .adsbygoogle
 ulusoy.com.tr###fancybox-wrap
 unikampus.net##.jgcabd-container
 unikampus.net##.more-stories
+uploadrar.com##.btn-lg.btn-info.btn
 uploadrar.com##.btn-primary.btn
 uploadrar.com##.lastnews
 uraltrack.net##[src^="//zlkbo.com/jsonp.php?eyJiIjo5MTUwMzcsImMiOiJkalF1YjJsVFF6aHRNazQ0U1ZaclJUUnFiVkZaTVc5eVpFOXBhVzFPTUZOd00zRklTM0JvZWxaVWMyOWtOME56Ym1oNlEyeDJjVEIxTUhsd09WUmlSbkJ4UVROWE0xUXJVV3hWYTNkaUwzSnFORGsxZFhSUFFYb3JWR042VUdFNVNqZEpWbE5QYms5YWIyaDRWa1pHU0hWS1JFTlBRVV"]
@@ -6989,6 +7028,7 @@ zobt-alanam-com.cdn.ampproject.org##.amp-x-div
 ||/*video*onu*/*/*sultan*bet*.mp4$media
 ||/*video*onu*/*/*sultanbet*.mp4$media
 ||0638.info^$third-party
+||0xxx.ws/images/0xxx.jpg$image
 ||1.black-snake-oil.info*^$popup
 ||109.73.75.29^
 ||109.73.75.3^
@@ -7262,6 +7302,7 @@ zobt-alanam-com.cdn.ampproject.org##.amp-x-div
 ||bcvcurl.info/url3.php^$all
 ||bcvcurl.info/url3.php^$popup
 ||bcvcurl.info^$popup
+||bedavapdfdunyasi.com^$popup
 ||belespdf.com^
 ||belrosepax1992.files.wordpress.com^
 ||belrosepax1992.wordpress.com^
@@ -7275,6 +7316,7 @@ zobt-alanam-com.cdn.ampproject.org##.amp-x-div
 ||betendads.com^$third-party
 ||betkanyon100.com^$third-party
 ||betlesene.com*^$popup
+||bettilt132.com^$popup
 ||betvole1.info*^$popup
 ||betvole1.info*^popup
 ||betvole362.com*^$popup
@@ -7321,9 +7363,11 @@ zobt-alanam-com.cdn.ampproject.org##.amp-x-div
 ||bnninc.net/*^$popup
 ||bo.facesbet.com^$third-party
 ||bodrumtranslationoffice.com^$popup
+||boguchwala24.pl^$popup
 ||boldserver.net^$third-party
 ||boluhijyen.com^$popup
 ||boluihl86.com^$popup
+||books-now.com^$popup
 ||booksurfers.co.uk*^$popup
 ||booksurfers.co.uk/^$popup
 ||booksurfers.co.uk^
@@ -7401,6 +7445,7 @@ zobt-alanam-com.cdn.ampproject.org##.amp-x-div
 ||ceviz.pw/pop.php
 ||chaicdn.com*/1.gif$image
 ||chaicdn.tk^$third-party
+||check-best-profit.life^$popup
 ||chip.com.tr/bmedia/
 ||chipola.ru^
 ||cibgoldmason.files.wordpress.com^
@@ -8548,6 +8593,7 @@ zobt-alanam-com.cdn.ampproject.org##.amp-x-div
 ||rs.chip.com.tr^
 ||rsalcdp.com^$document
 ||rublacklist.net/images/rutracker_image.png$image
+||rulet.boguchwala24.pl^$popup
 ||runnyamowt.com^$popup
 ||rutrk.org/iframe/kwork-1.html$subdocument
 ||rvminfochat.files.wordpress.com^
@@ -8617,6 +8663,7 @@ zobt-alanam-com.cdn.ampproject.org##.amp-x-div
 ||sisliescortkadin.com/*.jpg$image
 ||sisliescortkadin.com^$popup
 ||site-istanbulsr-com.cdn.ampproject.org/c/site.istanbulsr.com/amp/istanbul/sisli-escort/^$all
+||sites.google.com/a/hl.books-now.com^$popup
 ||sivassspor.com^$popup
 ||sivastina2006.com^$popup
 ||sizekitap.com^
@@ -8785,6 +8832,7 @@ zobt-alanam-com.cdn.ampproject.org##.amp-x-div
 ||vdcasinopoker.com*^$popup
 ||vegabet.net^$third-party
 ||veracdn.xyz^$third-party
+||vesajel.com^$popup
 ||viagrajio.com^$popup
 ||vicepra.org/banner/$third-party
 ||videoizle.link/cicisexlo*.png$image
