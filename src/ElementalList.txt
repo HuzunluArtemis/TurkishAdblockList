@@ -672,6 +672,7 @@
 ##[href="http://sivassspor.com/"]
 ##[href="http://sivastina2006.com"]
 ##[href="http://sivastina2006.com/"]
+##[href="http://t.me/pornopremiumkanal"]
 ##[href="http://talya07.xyz"]
 ##[href="http://talya07.xyz/"]
 ##[href="http://tekirdagagirnakliyat.com"]
@@ -1154,6 +1155,7 @@
 ##[href="https://cepsohbetler13.online/232"]
 ##[href="https://cesmehaberi.com"]
 ##[href="https://cesmehaberi.com/"]
+##[href="https://cihanajans.org/"]
 ##[href="https://cinselperform.com/"]
 ##[href="https://cinselperform.com/h8b8_1630596224"]
 ##[href="https://cloud.1mwr.r"]
@@ -3427,6 +3429,7 @@
 ##[href^="https://trx.rocks"]
 ##[href^="https://trx.rocks/"]
 ##[href^="https://trx.rocks/i.php"]
+##[href^="https://tsyndicate.com/api/v1/direct/"]
 ##[href^="https://turbobit.topupload.ru"]
 ##[href^="https://turkishpdfbooks.info/"]
 ##[href^="https://turkmmo.com/"]
@@ -5621,6 +5624,7 @@ claribel.info##div.main-blok.container > p
 cnnturk.com##.bnr
 cnnturk.com##.newsletter-form
 cnnturk.com,milliyet.com.tr##.adnet
+coir-kopeda-com.cdn.ampproject.org##.amp-to-div
 comparatives.cumleleri.com##.clearfix.hentry.type-page > div:nth-of-type(1) > .adsbygoogle
 comparatives.cumleleri.com##div:nth-of-type(2) > .adsbygoogle
 computerworld.com.tr##.kenar_banner160
