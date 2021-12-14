@@ -1647,8 +1647,10 @@
 127.0.0.1 eokul-meb.com
 127.0.0.1 eokulegitim.com
 127.0.0.1 eotech-yoqblou5gqrdrn.netdna-ssl.com
+127.0.0.1 epdfkitapindiir.com
 127.0.0.1 epdfkitapindir.com
 127.0.0.1 epdfkitapinndir.com
+127.0.0.1 epdfkitapoku.com
 127.0.0.1 epdfkitapp.com
 127.0.0.1 epoksizeminankara.com
 127.0.0.1 eptwulil.com
@@ -2477,6 +2479,7 @@
 127.0.0.1 kitappdff.com
 127.0.0.1 kitappdffoku.com
 127.0.0.1 kitappdfindir.com
+127.0.0.1 kitappdfindirr.com
 127.0.0.1 kitappdfinndir.com
 127.0.0.1 kitappdflerioku.org
 127.0.0.1 kitapsizinsan.blogspot.com
@@ -3268,6 +3271,7 @@
 127.0.0.1 pdf2.indirdepo.mobi
 127.0.0.1 pdfarsivindir.com
 127.0.0.1 pdfdunyam.com
+127.0.0.1 pdfekitaparsiv.com
 127.0.0.1 pdfekitapevi.blogspot.com
 127.0.0.1 pdfekitapindir.net
 127.0.0.1 pdfhemenindir.com
@@ -6142,8 +6146,10 @@
 127.0.0.1 www.eokul-meb.com
 127.0.0.1 www.eokulegitim.com
 127.0.0.1 www.eotech-yoqblou5gqrdrn.netdna-ssl.com
+127.0.0.1 www.epdfkitapindiir.com
 127.0.0.1 www.epdfkitapindir.com
 127.0.0.1 www.epdfkitapinndir.com
+127.0.0.1 www.epdfkitapoku.com
 127.0.0.1 www.epdfkitapp.com
 127.0.0.1 www.epoksizeminankara.com
 127.0.0.1 www.eptwulil.com
@@ -6972,6 +6978,7 @@
 127.0.0.1 www.kitappdff.com
 127.0.0.1 www.kitappdffoku.com
 127.0.0.1 www.kitappdfindir.com
+127.0.0.1 www.kitappdfindirr.com
 127.0.0.1 www.kitappdfinndir.com
 127.0.0.1 www.kitappdflerioku.org
 127.0.0.1 www.kitapsizinsan.blogspot.com
@@ -7763,6 +7770,7 @@
 127.0.0.1 www.pdf2.indirdepo.mobi
 127.0.0.1 www.pdfarsivindir.com
 127.0.0.1 www.pdfdunyam.com
+127.0.0.1 www.pdfekitaparsiv.com
 127.0.0.1 www.pdfekitapevi.blogspot.com
 127.0.0.1 www.pdfekitapindir.net
 127.0.0.1 www.pdfhemenindir.com
