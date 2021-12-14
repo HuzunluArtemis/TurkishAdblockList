@@ -116,6 +116,7 @@
 127.0.0.1 944e66f8683ac43c.com
 127.0.0.1 995db2642d3d852b.com
 127.0.0.1 9a24a1b3dcd5f4.com
+127.0.0.1 9akjsbkjdas9.monster
 127.0.0.1 a-v2.presage.io
 127.0.0.1 a.adnium.com
 127.0.0.1 a.ads1.msads.net
@@ -452,6 +453,7 @@
 127.0.0.1 adzerk.net
 127.0.0.1 adzopa.com
 127.0.0.1 aeckcjy.com
+127.0.0.1 aff-bahis.com
 127.0.0.1 aff-online.com
 127.0.0.1 aff-policy.lbesecapi.com
 127.0.0.1 aff-report.lbesecapi.com
@@ -664,6 +666,7 @@
 127.0.0.1 api.vungle.com
 127.0.0.1 apidm.airpush.com
 127.0.0.1 apk1.xyz
+127.0.0.1 apkland.net
 127.0.0.1 apklush.co
 127.0.0.1 app.medyanetads.com
 127.0.0.1 app.networkad.net
@@ -797,6 +800,7 @@
 127.0.0.1 b6roqgi.com
 127.0.0.1 babaeskiziraatodasi.org
 127.0.0.1 bahcesehirevleri.com
+127.0.0.1 bahis10.geceonline.com
 127.0.0.1 bahisbeluga5.com
 127.0.0.1 bahisciler.co
 127.0.0.1 bahistapot.com
@@ -886,6 +890,7 @@
 127.0.0.1 bejbumr.tk
 127.0.0.1 bekleyiniz.com
 127.0.0.1 belespdf.com
+127.0.0.1 beliscasino.com
 127.0.0.1 belrosepax1992.files.wordpress.com
 127.0.0.1 belrosepax1992.wordpress.com
 127.0.0.1 bembitansion.files.wordpress.com
@@ -934,6 +939,8 @@
 127.0.0.1 bettingselection.org
 127.0.0.1 bettingsites1.com
 127.0.0.1 bettingtag.com
+127.0.0.1 betturkey-one.cdn.ampproject.org
+127.0.0.1 betturkey.one
 127.0.0.1 betvole1.info
 127.0.0.1 betvole362.com
 127.0.0.1 betwin26251.top
@@ -1226,6 +1233,7 @@
 127.0.0.1 celeritascdn.com
 127.0.0.1 celltrionhealthcare.com.tr
 127.0.0.1 cemeteryreaction.info
+127.0.0.1 cepmax.co
 127.0.0.1 cepsohbetler.online
 127.0.0.1 cepsohbetler01.online
 127.0.0.1 cepsohbetler02.online
@@ -1763,6 +1771,7 @@
 127.0.0.1 farukyilmaz.com.tr
 127.0.0.1 fastjumbo.live
 127.0.0.1 fbe.trakya.edu.tr
+127.0.0.1 fbhesq.com
 127.0.0.1 fbs-turk.trade
 127.0.0.1 fbs-yatirim.com
 127.0.0.1 fedgha.com
@@ -2226,6 +2235,7 @@
 127.0.0.1 irontech.com.tr
 127.0.0.1 iroteenyvale.files.wordpress.com
 127.0.0.1 iroteenyvale.wordpress.com
+127.0.0.1 irsuperleague.com
 127.0.0.1 is-bank.com.tc
 127.0.0.1 is.sabah.com.tr
 127.0.0.1 isbank-bireysel-tr.com
@@ -2531,6 +2541,7 @@
 127.0.0.1 kzedemo.tk
 127.0.0.1 l6b587txj1.com
 127.0.0.1 ladsreds.com
+127.0.0.1 lamarquetaretona.com
 127.0.0.1 land1.planetdownload.info
 127.0.0.1 landing.betpas278.com
 127.0.0.1 landing.betpas293.com
@@ -3319,6 +3330,7 @@
 127.0.0.1 penispompasifirsati.com
 127.0.0.1 perabet177.com
 127.0.0.1 perabetads.com
+127.0.0.1 perabetgiris.online
 127.0.0.1 perabetmedya.com
 127.0.0.1 perfectaudience.com
 127.0.0.1 performancenative.com
@@ -3425,6 +3437,7 @@
 127.0.0.1 prfrvs.click
 127.0.0.1 priscilla.work
 127.0.0.1 prizmasigorta.com
+127.0.0.1 prmbw.com
 127.0.0.1 prmtracking.com
 127.0.0.1 pro-market.net
 127.0.0.1 pro-news.net
@@ -4367,6 +4380,7 @@
 127.0.0.1 vektorelcizimindir.com
 127.0.0.1 velocecdn.com
 127.0.0.1 venturead.com
+127.0.0.1 venusbetyenigiris.com
 127.0.0.1 vephaohoadanang.net
 127.0.0.1 verification.com.treachas.tk
 127.0.0.1 verifyrobot.online
@@ -4615,6 +4629,7 @@
 127.0.0.1 www.944e66f8683ac43c.com
 127.0.0.1 www.995db2642d3d852b.com
 127.0.0.1 www.9a24a1b3dcd5f4.com
+127.0.0.1 www.9akjsbkjdas9.monster
 127.0.0.1 www.a-v2.presage.io
 127.0.0.1 www.a.adnium.com
 127.0.0.1 www.a.ads1.msads.net
@@ -4951,6 +4966,7 @@
 127.0.0.1 www.adzerk.net
 127.0.0.1 www.adzopa.com
 127.0.0.1 www.aeckcjy.com
+127.0.0.1 www.aff-bahis.com
 127.0.0.1 www.aff-online.com
 127.0.0.1 www.aff-policy.lbesecapi.com
 127.0.0.1 www.aff-report.lbesecapi.com
@@ -5163,6 +5179,7 @@
 127.0.0.1 www.api.vungle.com
 127.0.0.1 www.apidm.airpush.com
 127.0.0.1 www.apk1.xyz
+127.0.0.1 www.apkland.net
 127.0.0.1 www.apklush.co
 127.0.0.1 www.app.medyanetads.com
 127.0.0.1 www.app.networkad.net
@@ -5296,6 +5313,7 @@
 127.0.0.1 www.b6roqgi.com
 127.0.0.1 www.babaeskiziraatodasi.org
 127.0.0.1 www.bahcesehirevleri.com
+127.0.0.1 www.bahis10.geceonline.com
 127.0.0.1 www.bahisbeluga5.com
 127.0.0.1 www.bahisciler.co
 127.0.0.1 www.bahistapot.com
@@ -5385,6 +5403,7 @@
 127.0.0.1 www.bejbumr.tk
 127.0.0.1 www.bekleyiniz.com
 127.0.0.1 www.belespdf.com
+127.0.0.1 www.beliscasino.com
 127.0.0.1 www.belrosepax1992.files.wordpress.com
 127.0.0.1 www.belrosepax1992.wordpress.com
 127.0.0.1 www.bembitansion.files.wordpress.com
@@ -5433,6 +5452,8 @@
 127.0.0.1 www.bettingselection.org
 127.0.0.1 www.bettingsites1.com
 127.0.0.1 www.bettingtag.com
+127.0.0.1 www.betturkey-one.cdn.ampproject.org
+127.0.0.1 www.betturkey.one
 127.0.0.1 www.betvole1.info
 127.0.0.1 www.betvole362.com
 127.0.0.1 www.betwin26251.top
@@ -5725,6 +5746,7 @@
 127.0.0.1 www.celeritascdn.com
 127.0.0.1 www.celltrionhealthcare.com.tr
 127.0.0.1 www.cemeteryreaction.info
+127.0.0.1 www.cepmax.co
 127.0.0.1 www.cepsohbetler.online
 127.0.0.1 www.cepsohbetler01.online
 127.0.0.1 www.cepsohbetler02.online
@@ -6262,6 +6284,7 @@
 127.0.0.1 www.farukyilmaz.com.tr
 127.0.0.1 www.fastjumbo.live
 127.0.0.1 www.fbe.trakya.edu.tr
+127.0.0.1 www.fbhesq.com
 127.0.0.1 www.fbs-turk.trade
 127.0.0.1 www.fbs-yatirim.com
 127.0.0.1 www.fedgha.com
@@ -6725,6 +6748,7 @@
 127.0.0.1 www.irontech.com.tr
 127.0.0.1 www.iroteenyvale.files.wordpress.com
 127.0.0.1 www.iroteenyvale.wordpress.com
+127.0.0.1 www.irsuperleague.com
 127.0.0.1 www.is-bank.com.tc
 127.0.0.1 www.is.sabah.com.tr
 127.0.0.1 www.isbank-bireysel-tr.com
@@ -7030,6 +7054,7 @@
 127.0.0.1 www.kzedemo.tk
 127.0.0.1 www.l6b587txj1.com
 127.0.0.1 www.ladsreds.com
+127.0.0.1 www.lamarquetaretona.com
 127.0.0.1 www.land1.planetdownload.info
 127.0.0.1 www.landing.betpas278.com
 127.0.0.1 www.landing.betpas293.com
@@ -7818,6 +7843,7 @@
 127.0.0.1 www.penispompasifirsati.com
 127.0.0.1 www.perabet177.com
 127.0.0.1 www.perabetads.com
+127.0.0.1 www.perabetgiris.online
 127.0.0.1 www.perabetmedya.com
 127.0.0.1 www.perfectaudience.com
 127.0.0.1 www.performancenative.com
@@ -7924,6 +7950,7 @@
 127.0.0.1 www.prfrvs.click
 127.0.0.1 www.priscilla.work
 127.0.0.1 www.prizmasigorta.com
+127.0.0.1 www.prmbw.com
 127.0.0.1 www.prmtracking.com
 127.0.0.1 www.pro-market.net
 127.0.0.1 www.pro-news.net
@@ -8866,6 +8893,7 @@
 127.0.0.1 www.vektorelcizimindir.com
 127.0.0.1 www.velocecdn.com
 127.0.0.1 www.venturead.com
+127.0.0.1 www.venusbetyenigiris.com
 127.0.0.1 www.vephaohoadanang.net
 127.0.0.1 www.verification.com.treachas.tk
 127.0.0.1 www.verifyrobot.online
