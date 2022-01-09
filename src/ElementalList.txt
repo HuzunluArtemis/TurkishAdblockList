@@ -5535,6 +5535,7 @@ badtv.net##center > p
 ballikaymak.com###hjframe
 batangemi.com,ulusoy.com.tr###fancybox-overlay
 bc.vc/MLJC9PJ^$popup
+lite-1x3433176.top^$popup
 bcvc.live###b3c6a2115164fa0f27541ef6a07a65e01474808f9 > .adflex-b-reset
 bcvc.live###b722a4372547dab3dff55c8d9c5b13649a7f61ba3 > .adflex-b-reset
 bcvc.live###bvcontainerx
