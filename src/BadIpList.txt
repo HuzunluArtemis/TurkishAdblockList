@@ -5,10 +5,8 @@
 ! Issues: https://github.com/huzunluartemis/TurkishAdblockList/issues
 ! Source: https://raw.githubusercontent.com/huzunluartemis/TurkishAdblockList/main/src/BadIpList.txt
 ! License: https://raw.githubusercontent.com/huzunluartemis/TurkishAdblockList/main/LICENSE
+! Copyright 2022 huzunluartemis
 
-! Copyright 2021 huzunluartemis
-
-! huzunluartemis/TurkishAdblockList başla
 109.73.75.29
 109.73.75.3
 154.213.244.147
@@ -23,4 +21,3 @@
 45.195.71.214
 88.255.216.16
 95.169.17.121
-! huzunluartemis/TurkishAdblockList bitir

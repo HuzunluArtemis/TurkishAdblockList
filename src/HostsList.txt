@@ -5,13 +5,11 @@
 ! Issues: https://github.com/huzunluartemis/TurkishAdblockList/issues
 ! Source: https://raw.githubusercontent.com/huzunluartemis/TurkishAdblockList/main/src/HostsList.txt
 ! License: https://raw.githubusercontent.com/huzunluartemis/TurkishAdblockList/main/LICENSE
-
-! Copyright 2021 huzunluartemis
+! Copyright 2022 huzunluartemis
 
 127.0.0.1  localhost
 ::1  localhost
 
-! huzunluartemis/TurkishAdblockList başla
 127.0.0.1 05bursa-escortsc-com.cdn.ampproject.org
 127.0.0.1 0638.info
 127.0.0.1 0n.click
@@ -19,10 +17,6 @@
 127.0.0.1 1.bmon.site
 127.0.0.1 109.73.75.29
 127.0.0.1 109.73.75.3
-127.0.0.1 kb-ribaki.org
-127.0.0.1 lite-1x3433176.top
-127.0.0.1 www.lite-1x3433176.top
-127.0.0.1 www.kb-ribaki.org
 127.0.0.1 110380d053f716c4.com
 127.0.0.1 11820.com.tr
 127.0.0.1 15elon9.zgnkwfb.com
@@ -129,6 +123,7 @@
 127.0.0.1 a.ads2.msn.com
 127.0.0.1 a.applovin.com
 127.0.0.1 a.applvn.com
+127.0.0.1 a.gambeng.com
 127.0.0.1 a.mstrlytcs.com
 127.0.0.1 a.optnmstr.com
 127.0.0.1 a.pub.network
@@ -147,6 +142,7 @@
 127.0.0.1 abdulkareemtyree87.files.wordpress.com
 127.0.0.1 abdulkareemtyree87.wordpress.com
 127.0.0.1 abihayatturkuaz.com
+127.0.0.1 abordajepacientefumador.es
 127.0.0.1 abroad-ad.kingsoft-office-service.com
 127.0.0.1 abtekin.com.tr
 127.0.0.1 ac3.msn.com
@@ -1806,6 +1802,7 @@
 127.0.0.1 fkpres.com.tr
 127.0.0.1 flash.banners-service.info
 127.0.0.1 flashtalking.com
+127.0.0.1 flexsodin.com
 127.0.0.1 flirtsexmeet.info
 127.0.0.1 flix360.com
 127.0.0.1 flixcar.com
@@ -1864,6 +1861,7 @@
 127.0.0.1 gadgmyi.ml
 127.0.0.1 gadgmyi.tk
 127.0.0.1 galataiplik.com.tr
+127.0.0.1 gambeng.com
 127.0.0.1 games1p.xyz
 127.0.0.1 gaming-guide-online.com
 127.0.0.1 ganfoninjomo.files.wordpress.com
@@ -2442,6 +2440,7 @@
 127.0.0.1 kayserisempati.com
 127.0.0.1 kayserisutamiri.com
 127.0.0.1 kazannakliyat.com
+127.0.0.1 kb-ribaki.org
 127.0.0.1 kcbyaharbor.files.wordpress.com
 127.0.0.1 kcbyaharbor.wordpress.com
 127.0.0.1 kelebek.gen.tr
@@ -2550,6 +2549,7 @@
 127.0.0.1 landing.betpas278.com
 127.0.0.1 landing.betpas293.com
 127.0.0.1 landing.restbet321.com
+127.0.0.1 landings.flexsodin.com
 127.0.0.1 landings.ncmae.com
 127.0.0.1 landings.ncmfck.com
 127.0.0.1 landings.setrtopfox.com
@@ -2617,6 +2617,7 @@
 127.0.0.1 lipimuteyupalo.cf
 127.0.0.1 liquidfile.topupload.ru
 127.0.0.1 liragadin.over-blog.com
+127.0.0.1 lite-1x3433176.top
 127.0.0.1 live.rezync.com
 127.0.0.1 liveadexchanger.com
 127.0.0.1 livechatinc.com
@@ -3794,6 +3795,7 @@
 127.0.0.1 securessl-smart.com
 127.0.0.1 sedsasu.com
 127.0.0.1 segmentify.com
+127.0.0.1 seka.abordajepacientefumador.es
 127.0.0.1 seksturkey.com
 127.0.0.1 seksvar.com
 127.0.0.1 sekzpkn.cf
@@ -6955,6 +6957,7 @@
 127.0.0.1 www.kayserisempati.com
 127.0.0.1 www.kayserisutamiri.com
 127.0.0.1 www.kazannakliyat.com
+127.0.0.1 www.kb-ribaki.org
 127.0.0.1 www.kcbyaharbor.files.wordpress.com
 127.0.0.1 www.kcbyaharbor.wordpress.com
 127.0.0.1 www.kelebek.gen.tr
@@ -7130,6 +7133,7 @@
 127.0.0.1 www.lipimuteyupalo.cf
 127.0.0.1 www.liquidfile.topupload.ru
 127.0.0.1 www.liragadin.over-blog.com
+127.0.0.1 www.lite-1x3433176.top
 127.0.0.1 www.live.rezync.com
 127.0.0.1 www.liveadexchanger.com
 127.0.0.1 www.livechatinc.com
@@ -9744,4 +9748,3 @@
 127.0.0.1 zxmkvelyft.bid
 127.0.0.1 zzgqqdmnrhhals.com
 127.0.0.1 zzhgpbovlhinj.com
-! huzunluartemis/TurkishAdblockList bitir

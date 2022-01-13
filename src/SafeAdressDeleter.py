@@ -1,11 +1,8 @@
 list1 = []
 list2 = []
 
-with open("HostsList.txt") as f:
-    list1 = f.readlines()
-
-with open("SafeDomains.txt") as f:
-    list2 = f.readlines()
+with open("HostsList.txt") as f: list1 = f.readlines()
+with open("SafeDomains.txt") as f: list2 = f.readlines()
 
 # https://raw.githubusercontent.com/EnergizedProtection/unblock/master/basic/formats/domains.txt
 
