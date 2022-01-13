@@ -2635,6 +2635,7 @@
 ##[href^="http://pin.redirect750.us"]
 ##[href^="http://pin.redirect750.us/"]
 ##[href^="http://player.fm"]
+##[href^="http://playervidx2.xyz/crash.php"]
 ##[href^="http://plugrush.com"]
 ##[href^="http://plugrush.com/"]
 ##[href^="http://pnbtour.com"]
@@ -5262,9 +5263,12 @@
 *###adcash-iframe-container
 *.cdn.ampproject.org/*/cdn.*.*/banners/ivr-img-bar.gif
 *.redirect*.us
+*/*.php$script,important,domain=videoporntrans.com|pornomaturetube.com|cdn111.com|reallysickporn.com|pornoteatr.com
 */*/*vardh*/wp-content/*/*/*/*vardh*.gif
 */*/*vardh*/wp-content/*/*/*/*yenivideoalt*.gif
 */fileru.net/video_onu/*/dizilla-desktop.*
+*/load.png$image,domain=videoporntrans.com|srbam.com|romvs.com,important
+*/wp-content/themes/*/images/loading-bert.gif$image
 *bahis*.com/BELUGA.jpg^$image
 *pskinlord*^$image
 -gooadsense.
@@ -5665,6 +5669,8 @@ canli.goodno.org##[src="//old.eniyioyuncu.com/oldstreaming/liste.html"]
 canlitv.news/img/plarka.jpg$image
 carli444.xyz###container
 carroline.info##.main > .holder > p
+cathleen.info##.mx-auto.col-md-10.col-12 > p
+cathryn.info,etta.info,kaylees.info,carmella.info,cecelia.info,claudine.info,edmonda.info,yandim.info,doldur.info,kolikporno.info,eilidh.info,rutubet.info,carole.info,aerodinamik.info,stellam.info,hokkabaz.info,bettie.info,graciela.info,bridgett.info##.main > .holder > p,.rated_box,#back-to-top,.footer_bottom,#v-player > p
 cdn.ampproject.org###iAlert
 cdn.ampproject.org###ivr-bar
 cdn.ampproject.org###jg-reklam
@@ -5768,13 +5774,29 @@ dizilab.com##.advert
 dizilab.com##.banner
 dizilab.com##.prev
 doeda.com,badtv.net##.amp-x-div
+drusilla.info,claudette.info,benita.info##p
+dulcie.info###main > div:nth-child(1) > p:nth-child(3)
+gonder.biz##[href="http://gonder.biz/daha.php"]
+isaura.club###page > a:nth-child(7),#page > a:nth-child(8),#page > a:nth-child(9),#page > a:nth-child(10),#page > a:nth-child(11),#page > a:nth-child(12),#page > a:nth-child(13),#page > a:nth-child(14),#page > a:nth-child(15)
+isaura.club##.is-bg.hightlight-section
+izleks.com,casandra.info###content > h1,#footer,#content > p
 kasut.org##.film-afis > figure
 lite-1x3433176.top^$popup
 medyablok.org###scrolladsbanners
+mutva.com##.col-md-12.news-thumb
+nevale.info###content > p
+pornofb.com##.site-footer
+pornoparty.net##.featured-image-in-post,.footer-inner-wrap
 shrinke.me##.blog-content
+starpornx.com##.footer-copyright
+trinsi.com###popups
+turkcealtyazilipornom.com,anwen.info###video > p,#page > p
+ucosi.com###credits
 wuvideo.com###content > h1
 yandim.info,doldur.info###v-player > p,#back-to-top,.footer_bottom
+zipturk.com,delores.info,wuvideo.com,turkcealtyazilipornom.com,pornoanne.com,fluffcore.com,anwen.info,hdxpornoizle.com,dothal.com,notmik.com,cabforward.net,69porno.biz,reallysickporn.com,pornoizle31.com,pornoteatr.com,wv2.net,izleyedi.biz,videoporntrans.com,badtv.net,maheir.com,hdabla.net,kopeda.com##.entry-actions,footer
 ||.*/wp-content/themes/detube1/images/bg-*.png$image
+||1milyon.org^$popup,important
 ||1mwr.ru^$popup
 ||adaletgazete.com^$popup
 ||adanadoyaorganizasyon.com^$popup
@@ -5787,19 +5809,27 @@ yandim.info,doldur.info###v-player > p,#back-to-top,.footer_bottom
 ||al6m.com^$popup
 ||alanyabilgisayarhastanesi.com^$popup
 ||alanyaforrent.com^$popup
+||alanyasahibinden.com^$popup,important
+||amigoporn.net^$popup,important
 ||antalyabilisimdestek.com^$popup
 ||antalyalimuzin.com^$popup
 ||antalyaofisburo.com^$popup
 ||ardream.world^$popup
+||arkadascenter.online^$popup
 ||artvingezgini.com^$popup
 ||artvinsifaaktar.com^$popup
 ||avuc.net^$popup
 ||ayanbotx.com/ayanpop^$popup
+||badtv.net/wp-content/uploads/*/*/porno.gif$image
 ||basla-kitap.vercel.app^$popup
+||bayanmanken.com^$popup,important
 ||bekleyiniz.com^$popup
 ||betlesene.com^$popup
 ||betonbetaffiliates.com^$popup
+||beylikduzuelitescort.com^$popup,important
+||beylikduzuturbanliescort.com^$popup,important
 ||bilgilibeyinler.com^$popup
+||blok.link^$popup
 ||blxsport.com^$popup
 ||bnninc.net^$popup
 ||bodrumtranslationoffice.com^$popup
@@ -5816,6 +5846,7 @@ yandim.info,doldur.info###v-player > p,#back-to-top,.footer_bottom
 ||canikom.space^$popup
 ||capitolhizligiris.com^$popup
 ||cashtring.live^$popup
+||cdnhouse.xyz/alanvideoonu.jpg$image
 ||cepsohbetler13.online^$popup
 ||cesmehaberi.com^$popup
 ||cevrehaberturkiye.com^$popup
@@ -5823,6 +5854,7 @@ yandim.info,doldur.info###v-player > p,#back-to-top,.footer_bottom
 ||cinselperform.com^$popup
 ||cloud.1mwr.ru^$popup
 ||cokucuzasite.com^$popup
+||copeland.club^$popup,important
 ||didimvillalari.com^$popup
 ||diyarbakirozeloto.com^$popup
 ||diyarbakirvho.com^$popup
@@ -5850,12 +5882,14 @@ yandim.info,doldur.info###v-player > p,#back-to-top,.footer_bottom
 ||escortbodrum.org^$popup
 ||escortbursa16.com^$popup
 ||escortbursam.com^$popup
+||escortgerl.com^$popup,important
 ||escortpo.com^$popup
 ||escortsrio.com^$popup
 ||escortsz.com^$popup
 ||eskisehiraydinnakliyat.com^$popup
 ||eskisehirevnakliyat.com^$popup
 ||eskortankara.net^$popup
+||eskortbeylikduzu.com^$popup,important
 ||fezahaber.com^$popup
 ||filmifullizle.xyz^$popup
 ||flashabermerkezi.com^$popup
@@ -5870,6 +5904,7 @@ yandim.info,doldur.info###v-player > p,#back-to-top,.footer_bottom
 ||gizabetgirisyap.com^$popup
 ||gndrglsn.com^$popup
 ||gokadin.com^$popup
+||gonder.biz/daha.php$script,important
 ||gozporno.info^$popup
 ||gumushanehbr.com^$popup
 ||guzelbiryemek.com^$popup
@@ -5884,7 +5919,9 @@ yandim.info,doldur.info###v-player > p,#back-to-top,.footer_bottom
 ||hataybazaar.com^$popup
 ||hataycrew.com^$popup
 ||havuzhaber.com^$popup
+||hdxplayer.net/hdx2.webp$image
 ||hepsifutbol.com^$popup
+||herot.net^$popup,important
 ||hitbas.com/esbot/git.php^$popup
 ||hitbas.com^$popup
 ||icpiyasa.com^$popup
@@ -5941,6 +5978,9 @@ yandim.info,doldur.info###v-player > p,#back-to-top,.footer_bottom
 ||meteorhaber.com^$popup
 ||mobilhdizle.com^$popup
 ||modelbayan.com^$popup
+||moeamine.com^$popup,important
+||moonfast.site/player/player-resim*.jpg$image
+||mousika.org^$popup,important
 ||mystiq-escort.com^$popup
 ||nagredirect.com/ad^$popup
 ||ncmfck.com^$popup
@@ -5965,8 +6005,11 @@ yandim.info,doldur.info###v-player > p,#back-to-top,.footer_bottom
 ||pathomporn.com^$popup
 ||pdfekitaparsiv.com^$popup
 ||peple.com.tr^$popup
+||playerim.xyz/favicon.ico$image
 ||popmobil.xyz/git.php^$popup
 ||porno-izle-sikis.pw^$popup
+||pornomaturetube.com/wp-content/plugins/automatic-youtube-video-posts/*$script
+||pornomaturetube.com/wp-content/plugins/contact-form-7/*$script
 ||pornophil.com^$popup
 ||pornosiz.info^$popup
 ||pratikyemekbilgileri.com^$popup
@@ -5974,9 +6017,11 @@ yandim.info,doldur.info###v-player > p,#back-to-top,.footer_bottom
 ||rebrand.ly/selcuksports^$popup
 ||record.wonoddsaffiliates.com^$popup
 ||red.blok.link^$popup
+||redirector.yarbot.host/loading.gif$image
 ||rizeesnaf.com^$popup
 ||rizesporluyuz.com^$popup
 ||s3ks44.xyz/out^$popup
+||s7.addthis.com/js/*/addthis_widget.js$script
 ||saglikda.com^$popup
 ||saglikmekan.com^$popup
 ||sakaryafenlisesi.com^$popup
@@ -5985,12 +6030,15 @@ yandim.info,doldur.info###v-player > p,#back-to-top,.footer_bottom
 ||samsunrentcar.com^$popup
 ||sanliurfan.com^$popup
 ||sanliurfasatilik.com^$popup
+||sapbeyler.com^$popup,important
 ||sarikirmizihaberler.com^$popup
 ||seksvar.com^$popup
 ||seorik.com^$popup
+||seslisohbetwa.club^$popup
 ||sexygirlstr.com/whatsapp^$popup
 ||share-files.jscinmark.ru^$popup
 ||sharing-pdf.jscinmark.ru^$popup
+||shonna.club^$popup,important
 ||simavhaberleri.com^$popup
 ||sinophabergazetesi.com^$popup
 ||sinopolay.com^$popup
@@ -6003,6 +6051,7 @@ yandim.info,doldur.info###v-player > p,#back-to-top,.footer_bottom
 ||sporhaberleri24.com^$popup
 ||sporodasi.com^$popup
 ||sportektv.com^$popup
+||srbam.com/images/srbam.png$image
 ||strxcdn21.gcdn.co/cdn/pulibet/puli*
 ||supermesaj.tv^$popup
 ||talya07.xyz^$popup
@@ -6024,6 +6073,7 @@ yandim.info,doldur.info###v-player > p,#back-to-top,.footer_bottom
 ||turkiyecinselbayisi.site^$popup
 ||ulrh.mobilhdizle.com^$popup
 ||ulus74haber.com^$popup
+||universalu.org^$popup,important
 ||usaknethaber.com^$popup
 ||vandasatilikarsa.com^$popup
 ||vans2099.com^$popup
@@ -6032,6 +6082,8 @@ yandim.info,doldur.info###v-player > p,#back-to-top,.footer_bottom
 ||vitrinlerim.xyz^$popup
 ||web.dpssports.org^$popup
 ||whatsapp.rlink.live^$popup
+||wv2.net/bosaldim.png$image
+||wv2.net/wp-content/uploads/*/*/partner*.gif$image
 ||ww1.avuc.net^$popup
 ||ww1.izlerim.info^$popup
 ||ww25.gozporno.info^$popup
