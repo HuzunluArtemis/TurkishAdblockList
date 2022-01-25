@@ -21,6 +21,14 @@
 127.0.0.1 11820.com.tr
 127.0.0.1 15elon9.zgnkwfb.com
 127.0.0.1 15minutemanifestation-tr.com
+127.0.0.1 krovatkaska.ru
+127.0.0.1 www.krovatkaska.ru
+127.0.0.1 21929.ru
+127.0.0.1 isitik.ru
+127.0.0.1 binomoplus.ru
+127.0.0.1 www.21929.ru
+127.0.0.1 www.isitik.ru
+127.0.0.1 www.binomoplus.ru
 127.0.0.1 1686607364.rsc.cdn77.org
 127.0.0.1 168logger.com
 127.0.0.1 16yp1ji92a.com
