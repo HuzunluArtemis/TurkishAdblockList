@@ -10,6 +10,8 @@
 127.0.0.1  localhost
 ::1  localhost
 
+127.0.0.1 www.bitcoinsosyal.com
+127.0.0.1 bitcoinsosyal.com
 127.0.0.1 05bursa-escortsc-com.cdn.ampproject.org
 127.0.0.1 0638.info
 127.0.0.1 0n.click
