@@ -25,6 +25,8 @@ https://raw.githubusercontent.com/huzunluartemis/TurkishAdblockList/main/src/Ele
 - Also lists I recommend you add:
 
 ```
+https://easylist-downloads.adblockplus.org/abp-filters-anti-cv.txt
+https://www.i-dont-care-about-cookies.eu/abp/
 https://raw.githubusercontent.com/rampageX/fuckfuckadblock/master/my_antiadblock_selection.txt
 https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser
 ```
