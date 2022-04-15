@@ -31,6 +31,12 @@ https://raw.githubusercontent.com/rampageX/fuckfuckadblock/master/my_antiadblock
 https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser
 ```
 
+- White List (For AdAway)
+
+```
+https://raw.githubusercontent.com/huzunluartemis/TurkishAdblockList/main/src/WhiteList.txt
+```
+
 ![like this](./docs/bilgi1.png)
 
 - You can then exit the page by clicking the **"Apply Changes"** button that appears at the top right.
