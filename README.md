@@ -31,6 +31,12 @@ https://raw.githubusercontent.com/rampageX/fuckfuckadblock/master/my_antiadblock
 https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser
 ```
 
+- Beyaz Liste (AdAway için)
+
+```
+https://raw.githubusercontent.com/huzunluartemis/TurkishAdblockList/main/src/WhiteList.txt
+```
+
 ![bunun gibi](./docs/bilgi1.png)
 
 - Ardından sağ üstte beliren **"Değişiklikleri Kaydet"** düğmesine tıklayarak sayfadan çıkabilirsiniz. 
