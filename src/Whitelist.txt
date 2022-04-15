@@ -1,0 +1,10 @@
+! Title: huzunluartemis turkish whitelist
+! Format: WhiteList
+! Expires: 1 days
+! Homepage: https://github.com/huzunluartemis/TurkishAdblockList
+! Issues: https://github.com/huzunluartemis/TurkishAdblockList/issues
+! Source: https://raw.githubusercontent.com/huzunluartemis/TurkishAdblockList/main/src/WhiteList.txt
+! License: https://raw.githubusercontent.com/huzunluartemis/TurkishAdblockList/main/LICENSE
+! Copyright 2022 huzunluartemis
+
+bildirim.eu
