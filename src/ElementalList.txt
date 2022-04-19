@@ -7,6 +7,11 @@
 ! License: https://raw.githubusercontent.com/huzunluartemis/TurkishAdblockList/main/LICENSE
 ! Copyright 2022 huzunluartemis
 
+divestos.org###bearprompt
+upload-4ever.com###app-footer-block > .blue-gradient-mask
+##[src="https://www.torrentoyunindir.fun/wp-content/themes/keremiya/images/torrent2.png"]
+##[src="https://www.torrentoyunindir.fun/wp-content/themes/keremiya/images/mail.png"]
+download.pixelexperience.org##center > .adsbygoogle
 ||textnoise.com/bannersmall.png
 ###adContentWrapper
 ###adv-link
