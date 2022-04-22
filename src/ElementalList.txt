@@ -7,6 +7,7 @@
 ! License: https://raw.githubusercontent.com/huzunluartemis/TurkishAdblockList/main/LICENSE
 ! Copyright 2022 huzunluartemis
 
+puantr.net###rekuyar
 needapk.cloud##.preloader
 ||grupbul.com/assets/img/gb-android-app-ad.gif$image
 uploadrar.com##div.download0page > .blockpage
