@@ -6121,3 +6121,18 @@ uploadrar.com##.blockpage > .adsbygoogle
 uploadrar.com##.btn-lg.btn-info.btn
 uploadrar.com###commonId > .adsbygoogle
 uploadrar.com##.sharefile
+getdroidtips.com##.adp_interactive_ad
+||picsum.photos/2000/2000$image
+td.msgsuite.workers.dev##.warnpopup.popupwindows
+||0xxx.ws/images/0xxx.jpg$image
+||0xxx.li/images/0xxx.jpg$image
+! 2022-06-01 https://chedrive.net
+chedrive.net##.btn-success.btn
+chedrive.net##.\36 27b73e88ee386c1f9fdb285
+chedrive.net##.banner1
+chedrive.net##.banner3
+chedrive.net##.banner4
+chedrive.net##.\36 28649b5f2f5ed5bc6d07a6e
+chedrive.net##.\36 2864987f2f5ed5bc6d079ee
+chedrive.net##.\36 27b72d88ee386c1f9fdb0da
+

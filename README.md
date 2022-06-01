@@ -122,7 +122,7 @@ Bu liste sağlayıcıyı kullanarak altta belirtilen listeleri de otomatik olara
 
 ```
 https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Turk-adlist.txt
-https://gitlab.com/anarcho-copy/block-fake-pdf-sites/-/raw/master/hosts
+https://gitlab.com/anarcho-copy/block-fake-pdf-sites/-/raw/master/output/hosts
 https://raw.githubusercontent.com/biroloter/Mobile-Ad-Hosts/master/hosts
 https://raw.githubusercontent.com/bkrucarci/turk-adlist/master/hosts
 https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/AakList.txt
