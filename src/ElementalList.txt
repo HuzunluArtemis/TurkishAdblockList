@@ -10,7 +10,6 @@
 puantr.net###rekuyar
 needapk.cloud##.preloader
 ||grupbul.com/assets/img/gb-android-app-ad.gif$image
-uploadrar.com##div.download0page > .blockpage
 divestos.org###bearprompt
 upload-4ever.com###app-footer-block > .blue-gradient-mask
 ##[src="https://www.torrentoyunindir.fun/wp-content/themes/keremiya/images/torrent2.png"]
@@ -6108,17 +6107,7 @@ zipturk.com,delores.info,wuvideo.com,turkcealtyazilipornom.com,pornoanne.com,flu
 ||zkadin.com^$popup
 ||zonguldakliyim.com^$popup
 ||zonguldakmotosiklet.com^$popup
-uploadrar.com##.col-md-offset-2.col-lg-4.col-md-4.col-sm-12.col-xs-12 > .fileoption > ul > li
 uploadrar.com##.col-md-offset-2.col-lg-4.col-md-4.col-sm-12.col-xs-12 > .adsbygoogle
-uploadrar.com##.fileoption > ul
-uploadrar.com##.txt
-uploadrar.com##div.col-lg-4.col-md-4.col-sm-12.col-xs-12 > .adsbygoogle
-uploadrar.com###gdpr-cookie-notice
-uploadrar.com###news_last
-uploadrar.com##[href="//agacelebir.com/4/4622434"]
-uploadrar.com##.adsbygoogle
-uploadrar.com##.blockpage > .adsbygoogle
-uploadrar.com##.btn-lg.btn-info.btn
 uploadrar.com###commonId > .adsbygoogle
 uploadrar.com##.sharefile
 getdroidtips.com##.adp_interactive_ad
@@ -6135,4 +6124,10 @@ chedrive.net##.banner4
 chedrive.net##.\36 28649b5f2f5ed5bc6d07a6e
 chedrive.net##.\36 2864987f2f5ed5bc6d079ee
 chedrive.net##.\36 27b72d88ee386c1f9fdb0da
+
+! 2022-06-17 https://uploadrar.com
+uploadrar.com##.col-md-offset-2.col-lg-4.col-md-4.col-sm-12.col-xs-12 > .fileoption > ul
+uploadrar.com##.fileoption > ul
+uploadrar.com##.txt
+uploadrar.com###news_last
 
