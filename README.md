@@ -22,13 +22,26 @@ https://raw.githubusercontent.com/huzunluartemis/TurkishAdblockList/main/src/Bad
 https://raw.githubusercontent.com/huzunluartemis/TurkishAdblockList/main/src/ElementalList.txt
 ```
 
-- Ayrıca eklemenizi tavsiye ettiğim listeler:
+- Tavsiye ettiğim listeler (ben de kullanıyorum):
 
 ```
-https://easylist-downloads.adblockplus.org/abp-filters-anti-cv.txt
+https://gitlab.com/anarcho-copy/block-fake-pdf-sites/-/raw/master/output/hosts
+https://raw.githubusercontent.com/bkrucarci/turk-adlist/master/hosts
+https://raw.githubusercontent.com/bkrucarci/turk-adlist/master/filters/turkish_generic_content_blocker.txt
+https://raw.githubusercontent.com/bkrucarci/turk-adlist/master/filters/I-Do-Not-Want-Your-Mobile-App.txt
 https://www.i-dont-care-about-cookies.eu/abp/
 https://raw.githubusercontent.com/rampageX/fuckfuckadblock/master/my_antiadblock_selection.txt
 https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser
+```
+  
+- Diğer benzer listeler (ben kullanmıyorum):
+
+```
+https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/AakList.txt
+https://easylist-downloads.adblockplus.org/abp-filters-anti-cv.txt
+https://raw.githubusercontent.com/abp-filters/abp-filters-anti-cv/master/turkish.txt
+https://raw.githubusercontent.com/biroloter/Mobile-Ad-Hosts/master/hosts
+https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Turk-adlist.txt
 ```
 
 - Beyaz Liste (AdAway için)
@@ -115,19 +128,6 @@ https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
 ### Eklenti destekleyen tarayıcılar // ücretsiz, cihaz kök-erişimli değilse
 
 Kiwi Browser veya Mozilla Firefox gibi eklenti desteği olan bir tarayıcıda, eklentiler bölümünden ublock origin kurarak aynı işlemleri uygulayabilirsiniz.
-
-## Eklememeniz gereken listeler (Yutulanlar)
-
-Bu liste sağlayıcıyı kullanarak altta belirtilen listeleri de otomatik olarak kullanmış olursunuz. Endişe etmeyin, onlar da sürekli en güncel halinde olacaklar. Anlayacağınız bunları eklemenize gerek yok.
-
-```
-https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Turk-adlist.txt
-https://gitlab.com/anarcho-copy/block-fake-pdf-sites/-/raw/master/output/hosts
-https://raw.githubusercontent.com/biroloter/Mobile-Ad-Hosts/master/hosts
-https://raw.githubusercontent.com/bkrucarci/turk-adlist/master/hosts
-https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/AakList.txt
-https://raw.githubusercontent.com/abp-filters/abp-filters-anti-cv/master/turkish.txt
-```
 
 ## [Diğer listeler](https://github.com/huzunluartemis/TurkishAdblockList/blob/master/OTHERS.md)
 
