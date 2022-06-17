@@ -142,6 +142,7 @@ https://someonewhocares.org/hosts/hosts
 https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
 ```
 
+- Add as a whitelist: `https://raw.githubusercontent.com/huzunluartemis/TurkishAdblockList/main/src/WhiteList.txt`
 - Go back to the main menu, check and apply updates. Restart your device.
 
 ### Plugin browsers // free, device root-accessible
