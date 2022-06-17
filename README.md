@@ -63,7 +63,7 @@ https://raw.githubusercontent.com/biroloter/Mobile-Ad-Hosts/master/hosts
 https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Turk-adlist.txt
 ```
 
-- Beyaz Liste (AdAway için)
+- Beyaz Liste (AdAway için, bilmiyorsan es geç.)
 
 ```
 https://raw.githubusercontent.com/huzunluartemis/TurkishAdblockList/main/src/WhiteList.txt
@@ -142,6 +142,7 @@ https://someonewhocares.org/hosts/hosts
 https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
 ```
 
+- Ayrıca şu listeyi güvenilir olarak eklemenizi tavsiye ederim. AdAway'de whitelist ya da beyaz liste diye seçiliyor. WhiteList olarak ekleyin: `https://raw.githubusercontent.com/huzunluartemis/TurkishAdblockList/main/src/WhiteList.txt`
 - Ana menüye dönün, güncellemeleri denetleyip uygulayın. Cihazınızı yeniden başlatın.
 
 ### Eklenti destekleyen tarayıcılar // ücretsiz, cihaz kök-erişimli değilse
