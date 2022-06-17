@@ -6130,4 +6130,11 @@ uploadrar.com##.col-md-offset-2.col-lg-4.col-md-4.col-sm-12.col-xs-12 > .fileopt
 uploadrar.com##.fileoption > ul
 uploadrar.com##.txt
 uploadrar.com###news_last
+cdn.ampproject.org##.rmiddle
+||partner.magnews.live^$popup
+||maheir-com.cdn.ampproject.org/i*/maheir.com/wp-content/uploads/kat/ggggg4.gif$image
+##[href="https://arskmgsg.life/h8b8_1582416516"]
+||static-eviewporn-com.cdn.ampproject.org/i/static.eviewporn.com/img/stick.png$image
+##[href="http://www.kestirme.link/kalt.php"]
+##[href="http://kestirme.link/paltka.php"]
 
