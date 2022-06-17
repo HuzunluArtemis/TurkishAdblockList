@@ -1,7 +1,7 @@
 <h2 align="center"><a href="https://www.google.com/search?q=t%C3%BCrk%20adlist%20TurkishAdblockList%20Turkish%20Adblock%20List%20huzunluartemis" alt="Annoying Sites huzunluartemis türk-adlist"><img src="./docs/logo.jpg" width="250"></a></br>
 <b>Turkish Ad-list, Ad-Block List, HOSTS</b></h2><h4 align="center">Blocks annoying sites like betting and fraud. <a href="https://github.com/huzunluartemis/TurkishAdblockList/blob/main/README.md">Türkçe</a></h4>
 
-<p align="center"><a href="https://www.gnu.org/licenses/gpl-3.0" alt="License: GPLv3"><img src="https://img.shields.io/github/license/huzunluartemis/TurkishAdblockList.svg"></a> <a href="https://www.google.com/search?q=t%C3%BCrk%20adlist%20TurkishAdblockList%20Turkish%20Adblock%20List%20huzunluartemis" alt="Türkçe Ad-listler"><img src="https://img.shields.io/badge/t%C3%BCrk%C3%A7e-reklam%20listesi-f44b42.svg"></a>  <a href="https://github.com/huzunluartemis/TurkishAdblockList/issues" alt="Hatalar"><img src="https://img.shields.io/github/issues/huzunluartemis/TurkishAdblockList.svg"></a> <a href="https://github.com/huzunluartemis/TurkishAdblockList" alt="Görüntülenme Sayısı"><img src="https://visitor-badge.laobi.icu/badge?page_id=huzunluartemis.TurkishAdblockList"></a>
+<p align="center"><a href="https://www.gnu.org/licenses/gpl-3.0" alt="License: GPLv3"><img src="https://img.shields.io/github/license/HuzunluArtemis/TurkishAdblockList"></a> <a href="https://www.google.com/search?q=t%C3%BCrk%20adlist%20TurkishAdblockList%20Turkish%20Adblock%20List%20huzunluartemis" alt="Türkçe Ad-listler"><img src="https://img.shields.io/badge/t%C3%BCrk%C3%A7e-reklam%20listesi-f44b42.svg"></a>  <a href="https://github.com/huzunluartemis/TurkishAdblockList/issues" alt="Hatalar"><img src="https://img.shields.io/github/issues/huzunluartemis/TurkishAdblockList.svg"></a> <a href="https://github.com/huzunluartemis/TurkishAdblockList" alt="Görüntülenme Sayısı"><img src="https://visitor-badge.laobi.icu/badge?page_id=huzunluartemis.TurkishAdblockList"></a>
 
 ## Usage and Warning
 
@@ -22,13 +22,26 @@ https://raw.githubusercontent.com/huzunluartemis/TurkishAdblockList/main/src/Bad
 https://raw.githubusercontent.com/huzunluartemis/TurkishAdblockList/main/src/ElementalList.txt
 ```
 
-- Also lists I recommend you add:
+- I Recommend (im using also):
 
 ```
-https://easylist-downloads.adblockplus.org/abp-filters-anti-cv.txt
+https://gitlab.com/anarcho-copy/block-fake-pdf-sites/-/raw/master/output/hosts
+https://raw.githubusercontent.com/bkrucarci/turk-adlist/master/hosts
+https://raw.githubusercontent.com/bkrucarci/turk-adlist/master/filters/turkish_generic_content_blocker.txt
+https://raw.githubusercontent.com/bkrucarci/turk-adlist/master/filters/I-Do-Not-Want-Your-Mobile-App.txt
 https://www.i-dont-care-about-cookies.eu/abp/
 https://raw.githubusercontent.com/rampageX/fuckfuckadblock/master/my_antiadblock_selection.txt
 https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser
+```
+
+- Other similar lists (im not using):
+
+```
+https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/AakList.txt
+https://easylist-downloads.adblockplus.org/abp-filters-anti-cv.txt
+https://raw.githubusercontent.com/abp-filters/abp-filters-anti-cv/master/turkish.txt
+https://raw.githubusercontent.com/biroloter/Mobile-Ad-Hosts/master/hosts
+https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Turk-adlist.txt
 ```
 
 - White List (For AdAway)
@@ -115,19 +128,6 @@ https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
 ### Plugin browsers // free, device root-accessible
 
 In a browser with add-on support such as Kiwi Browser or Mozilla Firefox, you can apply the same by installing an ublock origin from the add-ons section.
-
-## Included lists (Swallowed)
-
-By using this list provider, you automatically use the lists listed below. Don't worry, they will always be in the most up-to-date state. You don't need to add them that you understand.
-
-```
-https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Turk-adlist.txt
-https://raw.githubusercontent.com/biroloter/Mobile-Ad-Hosts/master/hosts
-https://gitlab.com/anarcho-copy/block-fake-pdf-sites/-/raw/master/output/hosts
-https://raw.githubusercontent.com/bkrucarci/turk-adlist/master/hosts
-https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/AakList.txt
-https://raw.githubusercontent.com/abp-filters/abp-filters-anti-cv/master/turkish.txt
-```
 
 ## [Other lists](https://github.com/huzunluartemis/TurkishAdblockList/blob/master/OTHERS.md)
 
